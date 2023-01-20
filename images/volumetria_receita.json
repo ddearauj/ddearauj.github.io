@@ -1,0 +1,119 @@
+{
+    "bi_opr_home_pass_netsms": {
+        "ambiente": "oracle - dwh",
+        "tipo": "prata",
+        "total_initial_rows": 1908000000,
+        "rows_month": 53000000,
+        "schema": {
+            "DAT_MOVIMENTO": "timestamp",
+            "DSC_SITUACAO_COMERCIAL_VIRTUA": "string",
+            "DSC_TIPO_REDE_FISICA_HP": "string",
+            "COD_NODE": "string",
+            "NUM_CONTRATO": "decimal(10,0)",
+            "DSC_STATUS_CONTRATO": "string"
+        }
+    },
+
+    "ft_base_domicilio_net": {
+        "ambiente": "oracle - inn",
+        "tipo": "prata",
+        "total_initial_rows": 360000000,
+        "rows_month": 10000000,
+        "schema": {
+            "SK_MUNICIPIO": "decimal(30,0)",
+            "SK_DATA": "decimal(30,0)",
+            "CD_NODE": "string"
+        }
+    },
+
+    "v_ef_rede_consolidado": {
+        "ambiente": "datalake - db_mgd_exper_qoe_rede_fixa",
+        "tipo": "prata",
+        "total_initial_rows": 3960000,
+        "rows_month": 110000,
+        "schema": {
+            "dat_referencia": "int",
+            "cod_node_atrelado_port": "string",
+            "qtd_dw_med_pico_port_sat": "string",
+            "qtd_up_med_pico_port_sat": "string"
+        }
+    },
+
+    "ds_municipio": {
+        "ambiente": "oracle - inn",
+        "tipo": "bronze",
+        "total_initial_rows": 5581,
+        "rows_month": 0,
+        "schema": {
+            "SK_MUNICIPIO": "decimal(30,0)",
+            "NM_MUNICIPIO": "string",
+            "SG_ESTADO": "string"
+        }
+    },
+
+    "ft_base_ponto_assinatura_net": {
+        "ambiente": "oracle - inn",
+        "tipo": "prata",
+        "total_initial_rows": 828000000,
+        "rows_month": 23000000,
+        "schema": {
+            "SK_DATA": "decimal(30,0)",
+            "NR_CONTRATO": "decimal(30,0)",
+            "CD_NODE": "string",
+            "CD_BASE_SISTEMA": "string",
+            "ID_PRODUTO": "decimal(10,0)"
+        }
+    },
+
+    "dw_preco_assinante_net": {
+        "ambiente": "oracle - inn",
+        "tipo": "bronze",
+        "total_initial_rows": 120000000,
+        "rows_month": 0,
+        "schema": {
+            "CD_CONTRATO": "decimal(38,10)",
+            "VL_PRODUTO_ASSINANTE": "decimal(38,10)",
+            "CD_PRODUTO": "decimal(38,10)"
+        }
+    },
+
+    "BI_DIM_AMX_PORTFOLIO_PROD": {
+        "ambiente": "oracle - dwh",
+        "tipo": "bronze",
+        "total_initial_rows": 1000000,
+        "rows_month": 0,
+        "schema": {
+            "DSC_TIPO_PRODUTO": "string",
+            "DSC_VELOCIDADE_VIRTUA": "string",
+            "DSC_PARA_BOOK": "string",
+            "COD_PRODUTO": "decimal(10,0)",
+            "COD_BASE": "string"
+        }
+    },
+
+    "jr_assinante_cmv": {
+        "ambiente": "datalake - db_sdb_otimizacao_rede_fixa",
+        "tipo": "prata",
+        "total_initial_rows": 12700000000,
+        "rows_month": 75000000,
+        "schema": {
+            "NUM_CPF_CNPJ": "string",
+            "ARPU_TOTAL": "decimal(38,10)",
+            "DSC_PLANO_PRECO": "string"
+        }
+    },
+
+    "agt_otim_rfixa_prev_saturac": {
+        "ambiente": "datalake",
+        "tipo": "prata",
+        "total_initial_rows": 12960000,
+        "rows_month": 360000,
+        "schema": {
+            "cod_node": "string",
+            "cod_operadora": "bigint",
+            "dat_prevista": "bigint",
+            "val_consumo_up_pred_mbps": "double",
+            "val_consumo_down_pred_mbps": "double"
+        }
+    }
+}
