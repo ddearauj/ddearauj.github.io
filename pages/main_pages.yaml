@@ -38,7 +38,7 @@ posts:
     clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>
 
     <img src=\"images/playlist_verao23/foto_praia.png\" sizes=\"(max-width: 210px) 10vw, 210px\">
-    <p>Foto: Eu & Dani na última viagem com piscina</p>
+    <p><i>Foto: Eu & Dani na última viagem com piscina</i></p>
     "
 
     date: "20 de Janeiro de 2023"
@@ -60,7 +60,8 @@ posts:
  
     <img src=\"images/looks_escritas/looks.jpg\" sizes=\"(max-width: 210px) 10vw, 210px\">
     <p>
-    Foto: Seleção de looks usados esse mês, pardon pelo espelho sujo :P Gosto dos looks soltinhos. Como todo o meu guarda-roupa, tem muito uniqlo, renner e myfots.E uma blusa herdada da minha tia que deve ter mais de 10 anos de existência.
+    <i>Foto: Seleção de looks usados esse mês, pardon pelo espelho sujo :P Gosto dos looks soltinhos. Como todo o meu guarda-roupa, tem muito uniqlo, renner e myfots.E uma blusa herdada da minha tia que deve ter mais de 10 anos de existência.
+    </i>
     <br>
     </p>
 
@@ -101,7 +102,7 @@ posts:
 
     <img src=\"images/camila/cami.png\" sizes=\"(max-width: 210px) 10vw, 210px\">
     <p>
-    Foto: ilustração linda da Cá, feita pela irmã dela (Jenni)
+    <i>Foto: ilustração linda da Cá, feita pela irmã dela (Jenni)</i>
     </p>
     <br>
 
