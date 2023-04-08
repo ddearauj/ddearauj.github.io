@@ -19,6 +19,121 @@ pages:
       "
 
 posts:
+  sabrina_receita:
+    path: sabrina_cuzcuz.html
+    page_title: "Me dá couscous?"
+    main_igm_path: 
+    post_title: "Me dá couscous?"
+    post_text: "
+    <p> Sabrina é a pessoa com o maior bom gosto que conheço. 
+    Ela é linda, legal demais e sempre foi uma referência pra mim, 
+    talvez por ser muito talentosa nas artes e na culinária além de outros campos. 
+    Hoje faz uma participação com a primeira receita do blog, que ela adaptou de uma criação do Ottolenghi 
+    (muito chique, nem conhecia kkkk). O nome é “bolinho de couscous??” ela disse, pensativa. 
+    </p>
+    
+    <img src=\"images/posts_abril/sabrina_czcz.JPG\" sizes=\"(max-width: 210px) 10vw, 210px\">
+    <p><i>Foto: A criadora e a criatura. Sabrina mora em Dubai há 7 anos e na minha cabeça ela já conheceu o mundo todo</i></p>
+
+    
+    <p><strong>Ingredientes:</strong></p>
+    <p>- 250g de couscous marroquino
+    </br>- 30g de goji berries
+    </br>- 140g de iogurte grego
+    </br>- 2 ovos
+    </br>- 20g de cebolinha verde (sem a parte branca)
+    </br>- 100g de feta
+    </br>- ghee ou manteiga misturada com óleo pra fritar
+
+    <p><strong>Modo de preparo guiado pela chef:</strong></p>
+    <p> 
+    Hidratar o couscous com 450 ml de água fervente, gosto de colocar um pouco de sal e uma pontinha de manteiga na água do couscous. Deixa hidratar por 15 min.
+    As goji berries a gente coloca em uma panela com 120 ml de àgua e 50g de açucar, deixa hidratar por 10 min, quando a água esfriar retira as berries! Adiciona o iogurte, os ovos, a cebolinha picada e o queijo feta cortado em quadradinhos de 1cm e as berries ao couscous.
+    Logo fazemos bolinhos da mistura de couscous com as mãos. Temos que fazer bolinhos bastante compactos para que não se desfaçam na hora de fritar. Essa receita normalmente dá pra 12 bolinhos.
+    Então colocamos 2 colheres de ghee em uma frigideira e colocamos 4 bolinhos por vez, cada lado demora 2 minutos até ficar douradinho.
+    </p>
+
+
+    <img src=\"images/posts_abril/czcz2.JPG\" sizes=\"(max-width: 210px) 10vw, 210px\">
+    <p><i>Foto: Processo de preparo fotografado por Sabrina</i></p>
+
+
+    <p>Sabrina normalmente serve a receita com um chutney de tomate (pode ser comprado pronto) e uma salada.</p>
+    <p>Se quiser fazer o chutney em casa a receita é bastante simples.</p>
+    <p>Assar por 40 min em fogo médio 5 tomates cortados em 4 cobertos com uma mistura de 3 colheres de sopa de azeite, 1 de açúcar, sal e pimenta em flocos. Logo tostar levemente 1colher de sopa de sementes de cominho e 1 colher de sementes de erva doçe. Colocar os tomates assados e temperos em um processador e pulsar, deixando alguns pedaços de tomate inteiros, levar para o fogo, adicionar água, açucar e sal a gosto, deixar ferver por ao menos 15 min. Voilá!</p>
+    </br>
+    <p>Sim, ela é uma deusa na cozinha! Se fizerem a receita, compartilhem o resultado com a gente :)</p>
+
+
+    "
+
+    date: "06 de Abril de 2023"
+    category: "Receitas"
+
+  inhotim:
+    path: inhotim.html
+    page_title: Inhotim
+    main_img_path:
+    post_title: "Inhotim"
+    post_text: "
+    <p>Ano passado eu e Dani viajamos para Inhotim. Nossa primeira viagem juntos. </p>
+    <p>Fomos para o MECA, festival de música brasileira dentro do museu. A ideia é ótima e a execução também. Honestamente, valeu muito todos os reais que o ingresso custou, nem foi caro comparado a outros festivais e shows e além de tudo com acesso ao museu.</p>
+    <p>Hoje venho relembrar esse evento pra informar que o MECA Inhotim desse ano ocorrerá no fim de semana de 4-6 de agosto, e os <a href=\"https://meca.love/\"> ingressos já estão à venda!! </a> Bem, Inhotim é uma jóia e com MECA fica ainda mais completo: Dá pra visitar as obras e galerias durante o dia e curtir show a tardezinha e a noite.</p>
+
+
+    <img src=\"images/posts_abril/inhota1.JPG\" sizes=\"(max-width: 210px) 10vw, 210px\">
+
+    <img src=\"images/posts_abril/inhota2.JPG\" sizes=\"(max-width: 210px) 10vw, 210px\">
+
+    <img src=\"images/posts_abril/inhota3.JPG\" sizes=\"(max-width: 210px) 10vw, 210px\">
+
+
+
+    <p><strong>Recomendações gerais:</strong></p>
+    <p>-Ir em grupo de 4 pessoas é o melhor esquema pra dividir custos, mas ir em casal também rola e é bem gostosinn;
+    </br>-Ficar em BH é bom, mas lembrem-se que vocês irão dirigir bastante até o museu (em Brumadinho) todo dia ida e volta (mais ou menos 1h30min cada trecho);
+    </br>-Existe uma escassez de hospedagem em Brumadinho e redondezas, então se quiser muito ficar por lá, recomendo procurar desde já;
+    </br>-Se for alugar carro, recomendo um automático já que as subidas são bastante íngremes em BH e se você não tiver acostumado com a troca de marchas, vai deixar o carro morrer com frequência;
+    </br>-Protetor solar pro dia, casaco pra noite. Não esqueça.</p>
+
+    </p>Ano passado vimos Caetano Veloso, Majur, Fernanda Takai, Alceu Valença, Bala Desejo (rancinho), etc. Pra quem gosta de eletrônica tem um palco só disso. Esse ano não conseguirei ir, mas torcendo por um line up à altura.</p>
+      
+
+
+    "
+    date: "06 de Abril de 2023"
+    category: "Viagens"
+
+  looks_abril:
+    path: looks_abril_23.html
+    page_title: Looks Just Like That
+    main_img_path: 
+    post_title: "Looks do dia, escritório & And Just Like That..."
+    post_text: "
+    Em janeiro, fiz esse <a href=\"looks_escritas.html\">post</a> sobre looks do dia e a meta de frequentar mais o escritório. 
+    Passados os 3 meses, venho dizer que a meta foi cumprida (e já espero uma promoção por isso hehe). 
+    Mas a recompensa, que era uma escapada pro mato ou mar, será mais difícil de planejar no curto prazo.
+
+    <img src=\"images/posts_abril/looks_abril.jpg\" sizes=\"(max-width: 210px) 10vw, 210px\">
+
+    <p>Acho que os looks mais coloridos dessa vez vieram influenciados pelo revival de Sex and the City, que me fez lembrar que amo um mix de estampas e texturas (pra variar com um look minimalista bem executado).</p?
+    <p>Já ouvi que muita gente não gosta de Carrie Bradshaw, mas eu sou fã e gostaria de colocar aqui uma lista de suas qualidades, incluindo estilo:</p>
+    <p>-O jeito que ela usa as mini-bolsas e se apoia nas sacolas de pano (ecobags) pra carregar o que precisa de fato;
+    </br>-Como ela sorri e é boa amiga. Simpatia, atenção e disponibilidade pra rede dela;
+    </br>-É encorajadora (uma qualidade importantíssima);
+    </br>-Muito segura pra usar o look que quiser em qualquer ocasião;
+    </br>-Como ela gera entretenimento com umas angústias meio nada a vê: eu todinha!!!!
+    </br>-Criativa, fora da caixa e entertaining. Ela é legal, no mínimo interessante.</p>
+    <p>Sim, às vezes é um pouco egoísta e dá uns chiliques desproporcionais aos acontecimentos; da mesma forma que Miranda é, também às vezes, desatenta e descuidada (adoro Miranda!!!). Assim como Charlotte é um suquinho de convencionalismo (mas organizada, prestativa e acaba cedendo ao progresso e mudanças, ufa).</p>
+    <p>A forma com que as 3 personagens sustentam o processo de envelhecimento é bonita, admirei muito. Assistindo o Mamilos Cultura sobre a série, ouvi sobre Bethânia, que em alguma entrevista disse: <strong> “Eu gosto dos meus cabelos brancos. Das rugas, são minhas, o tempo me deu. Envelhecer é privilégio.”</strong></p>
+
+    "
+
+    date: "06 de Abril de 2023"
+    category: "Looks"
+
+
+
   playlist_verao_23:
     path: playlist_verao_23.html
     page_title: Playlist Verão 2023
@@ -44,7 +159,7 @@ posts:
     date: "20 de Janeiro de 2023"
     category: "Deve Ser Playlist"
 
-  looks:
+  looks_escritas:
     path: looks_escritas.html
     page_title: Looks de trabalho & meta de ano novo
     main_img_path:
@@ -86,7 +201,7 @@ posts:
     Mandem para deveseraquiblog@gmail.com :)
     </p>
     "
-    date: "20 de Janeiro de 2023"
+    date: "6 de Abril de 2023"
     category: "Looks"
 
   comentarios_cami:
@@ -130,8 +245,7 @@ posts:
 
     date: "20 de Janeiro de 2023"
     category: "Comentarista"
-
-    
+  
   donchan: 
     path: donchan.html
     page_title: Donchan
@@ -264,3 +378,5 @@ posts:
     "
     date: "23 de Novembro de 2022"
     category: "Viagens"
+
+  
