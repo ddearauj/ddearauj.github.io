@@ -100,6 +100,7 @@ def generate_header():
 
                 <ul class="s-header__nav">
                     <li><a href="index.html" title="">Home</a></li>
+                    <li><a href="categorias.html" title="">Categorias</a></li>
                     <li><a href="about.html" title="">Sobre</a></li>
                 </ul> <!-- end header__nav -->
 
@@ -115,6 +116,60 @@ def generate_header():
     </header> <!-- end header -->
     
     """
+
+def get_list_of_categorias(pages_dict):
+    
+    category_list = []
+    for _, page_dict in pages_dict["posts"].items():
+        cat = page_dict["category"]
+        if cat not in category_list:
+            category_list.append(cat)
+
+    return category_list
+    
+
+def generate_page_categorias(**kwargs):
+
+    main_img_path = kwargs.get("main_img_path")
+    title = kwargs.get("post_title")
+    category_list = kwargs.get("category_list")
+
+    category_code_string = """ """
+    for category in category_list:
+        if category == "I <3 SP":
+            cat_html = "I_LUV_SP"
+        else:
+            cat_html = category
+        category_code_string += f"""<li><a href="{cat_html}.html" title="">{category}</a></li> """
+        print(category_code_string)
+
+    return f"""
+    <section class="s-content">
+        <div class="row">
+            <div class="column large-12">
+
+                <section>
+
+                    <div class="s-content__media">
+                        <img src="{main_img_path}" sizes="(max-width: 2100px) 100vw, 2100px" alt="">
+                    </div> <!-- end s-content__media -->
+
+                    <div class="s-content__primary">
+
+                        <h1 class="s-content__title">{title}</h1>
+
+                        {category_code_string}
+                        <hr>
+
+                    </div> <!-- end s-content__primary -->
+
+                </section>
+
+            </div> <!-- end column -->
+        </div> <!-- end row -->
+    </section> <!-- end s-content -->
+    """
+    
 
 
 def generate_about_content(**kwargs):
@@ -159,6 +214,11 @@ def generate_post_content(**kwargs):
     date = kwargs.get("date")
     category = kwargs.get("category")
 
+    if category == "I <3 SP":
+        cat_html = "I_LUV_SP"
+    else:
+        cat_html = category
+
     return f"""
         <section class="s-content s-content--single">
         <div class="row">
@@ -178,7 +238,7 @@ def generate_post_content(**kwargs):
 
                         <ul class="s-content__post-meta">
                             <li class="date">{date}</li>
-                            <li class="cat"><a href="">{category}</a></li>
+                            <li class="cat"><a href="{cat_html}.html">{category}</a></li>
                         </ul>
 
                         {text}
@@ -237,7 +297,7 @@ def generate_feed(main_template: Template, pages_dict: dict):
     feed_html = """"""
 
     for _, page_dict in pages_dict["posts"].items():
-        print(page_dict)
+        # print(page_dict)
         feed_html += generate_post_content(**page_dict)
 
     final_html = main_template.substitute(
@@ -249,37 +309,73 @@ def generate_feed(main_template: Template, pages_dict: dict):
         scripts=generate_scripts(),
     )
 
-    with open("index.html", "w") as f:
+    with open("index.html", "w", encoding="utf-8") as f:
         f.write(final_html)
+
+
+def generate_category_feed(main_template: Template, pages_dict: dict):
+
+    cat_list = get_list_of_categorias(pages_dict)
+
+    for cat in cat_list:
+        feed_html = """"""
+
+        for _, page_dict in pages_dict["posts"].items():
+            if page_dict["category"] != cat:
+                continue
+            # print(page_dict)
+            feed_html += generate_post_content(**page_dict)
+
+        final_html = main_template.substitute(
+            head=generate_head(f"Feed {cat}"),
+            preloader=generate_preloader(),
+            header=generate_header(),
+            content=feed_html,
+            footer=generate_footer(),
+            scripts=generate_scripts(),
+        )
+
+        if cat == "I <3 SP":
+            cat = "I_LUV_SP"
+
+        with open(f"{cat}.html", "w", encoding="utf-8") as f:
+            f.write(final_html)
 
 
 def generate_pages(main_template: Template, pages_dict: dict):
 
     # generate pages:
+    cat_list = get_list_of_categorias(pages_dict)
+    # print(cat_list)
+
 
     for _, page_dict in pages_dict["pages"].items():
+        page_dict["category_list"] = cat_list
         html = generate_html(main_template, page_dict)
 
-        with open(page_dict["path"], "w") as f:
+        with open(page_dict["path"], "w", encoding="utf-8") as f:
             f.write(html)
 
     for _, page_dict in pages_dict["posts"].items():
-        print(page_dict)
         html = generate_html(main_template, page_dict)
 
-        with open(page_dict["path"], "w") as f:
+        with open(page_dict["path"], "w", encoding="utf-8") as f:
             f.write(html)
 
 
 if __name__ == "__main__":
 
-    pages_dict = yaml.safe_load(Path("pages/main_pages.yaml").read_text())
+    pages_dict = yaml.safe_load(Path("pages/main_pages.yaml").read_text(encoding="utf-8"))
 
     for key in pages_dict["pages"].keys():
-        pages_dict["pages"][key]["html_content_func"] = generate_about_content
+        if key == "about":
+            pages_dict["pages"][key]["html_content_func"] = generate_about_content
+        if key == "categorias":
+            pages_dict["pages"][key]["html_content_func"] = generate_page_categorias
 
     for key in pages_dict["posts"].keys():
         pages_dict["posts"][key]["html_content_func"] = generate_post_content
-
+    
     generate_pages(main_template=main_html_template, pages_dict=pages_dict)
     generate_feed(main_template=main_html_template, pages_dict=pages_dict)
+    generate_category_feed(main_template=main_html_template, pages_dict=pages_dict)

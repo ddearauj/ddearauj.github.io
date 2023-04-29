@@ -18,7 +18,85 @@ pages:
       </p>
       "
 
+  categorias:
+    path: categorias.html
+    page_title: Categorias
+    post_title: "Categorias"
+
 posts:
+  japao_23:
+    path: japao_23.html
+    page_title: "Desfazendo a mala aos poucos"
+    post_title: "Desfazendo a mala aos poucos"
+    category: Fotografia
+    date: "29 de Abril de 2023"
+    post_text: " 
+    Fotos de Quioto e Nara numa paleta terrosa e seca. Tiradas com Fujifilm X100F.
+
+    <img src=\"images/japao23/jp1.jpg\" sizes=\"(max-width: 210px) 10vw, 210px\">
+    <img src=\"images/japao23/jp4.jpg\" sizes=\"(max-width: 210px) 10vw, 210px\">
+    <img src=\"images/japao23/jp3.jpg\" sizes=\"(max-width: 210px) 10vw, 210px\">
+    <img src=\"images/japao23/jp6.jpg\" sizes=\"(max-width: 210px) 10vw, 210px\">
+    <img src=\"images/japao23/jp2.jpg\" sizes=\"(max-width: 210px) 10vw, 210px\">
+    <img src=\"images/japao23/jp5.jpg\" sizes=\"(max-width: 210px) 10vw, 210px\">
+
+    "
+
+  filmes_abril:
+    path: filmes_abril.html
+    page_title: "Filmes"
+    post_title: "Filmes"
+    category: Cinema
+    date: "29 de Abril de 2023"
+    post_text: "
+    
+    <h4>Deve Ser Aqui indica uma pequena seleção de filmes bons que a Gabi viu nesse primeiro quadrimestre do ano.</h4>
+
+    <p><strong>Shoplifters</strong> (2018)</p>
+    <p>Assisti esse filme no vôo de volta de Tóquio e confesso que a cada dia fico mais entusiasta e fãzona do cinema japonês.</p>
+    <p>O filme aborda tantas questões importantes e o faz de forma brilhante e sensível. O conceito de família, nosso sistema de produção que marginaliza pessoas, leis e normas que não se aplicam diante de contextos muito individuais e difíceis de serem rotulados. Diante de personagens tão tortos e tão adoráveis nos pegamos pensando: \"A condição de irregularidade é frequentemente fruto de injustiças... \"</p>
+    <p>Joga luz na falta de humanismo em nossas relações, hoje muitas vezes transacionais, trazendo um olhar mais simples porém mais dedicado ao outro, com mais acolhimento genuíno, prontidão e ternura. Discorre sobre as versões das histórias que nunca serão contadas, ou se contadas não serão acreditadas. Tipo de obra que deixa claro o papel da arte no mundo, num nível que costumo classificar como \"Gabriel Garcia Márquez ou Jorge Amado de arte\". Um primor!</p>
+    <img src=\"images/cinema/shop.png\" sizes=\"(max-width: 210px) 10vw, 210px\">
+
+    <p>Onde ver: Amazon Prime e Google Play</p>
+
+
+    <p><strong>Paris Distrito 13</strong>(2021)</p>
+    <p>O filme, bem contemporâneo, é um claro retrato de nossa geração e da influência da internet em nossas vidas. Conta a história e dilemas de jovens adultos que vivem no subúrbio de Paris. Primordialmente sobre amor, novas experiências e diferentes formas de relacionamento, os personagens que se cruzam compartilham a angústia de não ter respostas e decisões definitivas. O filme mostra que a vida adulta é difícil e ainda assim pode ser melhor do que imaginamos. Plus: toda a vibe de um filme preto e branco!</p>
+    <img src=\"images/cinema/paris.png\" sizes=\"(max-width: 210px) 10vw, 210px\">
+    <p>Onde ver: MUBI e Amazon Prime</p>
+
+    <p><strong>Bergman Island</strong> (2021)</p>
+    <p>Pra quem entende de cinema sueco (talvez o Dudu? Hahah) o filme deve ter ainda mais significado do que o que eu consegui acessar. De maneira geral, as paisagens e fotografia são muito boas, o jeito nórdico de viver a vida também mostra outro ritmo do qual estamos acostumados. A trama em si sobre artistas em seus processos criativos e em suas relações pessoais, não é super espetacular mas interessante de acompanhar. Assim que acaba, o filme parece até sem graça, com uma narrativa calma e um pouquinho confusa, mas por mais contraditório que pareça -e é aí que vem a parte boa- você ficará pensando nele por dias. Vontade de assistir de novo.</p>
+    <img src=\"images/cinema/berg.png\" sizes=\"(max-width: 210px) 10vw, 210px\">
+    <p>Onde ver: MUBI</p>
+
+    "
+
+  cronica_lucca_caos:
+    path: caos_urb.html
+    page_title: "Caos e Urbanismo"
+    main_igm_path: 
+    post_title: "Caos e Urbanismo"
+    category: Cronicas
+    date: "29 de Abril de 2023"
+    post_text: "
+    <p><a href=\"https://instagram.com/luccaviersa?igshid=YmMyMTA2M2Y=\">Lucca</a> é doutorando em Planejamento Urbano, mora em Lisboa e toda vez que eu o encontro sinto uma grande alegria dentro de mim misturada com a sensação de que tudo é possível. A crônica abaixo, da qual compartilho visão, ele escreveu especialmente para o blog.</p>
+    
+
+    <p><h4>O que me resta é só um gemido - Caos e Urbanismo</h4></p>
+    <p>O meu corpo precisa de caos. Passamos muito tempo tentando ordenar aquilo que não é ordenável. Tentamos prever e organizar a vida: que horas sair de casa, que rua andar, que rua não andar, quem encontrar, sentir, anestesiar. Gastamos uma grande quantidade de energia nesse processo. Para mim isso é completamente à toa, simplesmente não faz sentido. O mundo é caótico, viver passa por aceitar o caos e não tentar organizá-lo (é impossível), mas sim aprender a andar nele. A navegar. Fluir (para usar palavras da moda).</p>
+    <p>Saindo do âmbito pessoal e pensando nas cidades, minha experiência morando em alguns lugares na Europa tem me feito pensar na relação entre caos e urbanismo. Nas cidades nortes vejo uma tentativa de domar o caos: tudo é arrumado, limpo, ascético, para utilizar as ruas é preciso pedir autorização, para protestar é preciso pedir autorização, para sentar talvez seja preciso pedir autorização também, resumindo tenta-se ordenar a vida. Esse modelo é tomado como referência por diversos planejadores urbanos. No entanto, cada vez mais enxergo a pobreza dessa forma de organizar o mundo. Não há espaço para inovações - nada pode sair do planejado. Não há espaço para a espontaneidade, talvez nem espaço para a vida mesmo. Isso também se reflete nas formas de sociabilidade que encontramos na rua, muito mais rígidas, engessadas e determinadas por hábitos de consumo. Para mim, a cidade norte está quase morta. É uma anestesia, pode ser um simulacro de algo ou mesmo uma versão grande da Disney. Nesse contexto, acredito que é praticamente impossível produzir o novo. Como diria Ney Matogrosso, ventos do norte não movem moinhos. </p>
+    <p>A cidade sul por sua vez é o caos em definição. O trânsito, a bicicleta, o morador de rua com 10 cachorros, para não falar dos engravatados e das madames de salto alto nas calçadas irregulares, os vendedores: carregador de celular, ohhh a pipoca, brahma latão, cuidado menino, não mexe no celular na rua, vão te assaltar. Se for o rio de janeiro então temos alguns adicionais, o bueiro que explode, o cheiro de mijo quase que constante em vários lugares, os motoristas de ônibus que nunca param (o 456 então é uma lenda), as constantes enchentes, onde a cidade vira um rio de uma hora para outra, tudo isso temperado há mais de 40 graus. </p>
+    <p>Não é que não exista nenhuma ordem, o caos não é isso. Tem regras, tem organização, mas diferente da cidade norte. Na cidade sul sobra espaço para inovação, para o espontâneo e isso se aplica a diferentes campos: da política, do lazer, da economia, da vida. Todos eles sobrepostos, não é possível isolá-los. Esses lugares são para novas ocupações do espaço público, para vender, para protestar, interagir com as pessoas, para se relacionar. É uma pulsão de vida constante. Tudo está vivo. O movimento é constante. Isso para mim é fluir. Claro que isso tem a ver com as tensões sociais, as desigualdades e o sistema capitalista (que tornam as coisas muito mais competitivas - é preciso matar ou morrer todos os dias). Não é uma romantização da pobreza, mas talvez mostrar que quanto mais longe dos padrões que nos são vendidos como modelos de “civilização”, mais perto estaremos de nós mesmos. Perto de nós mesmos, para mim significa entender nossas próprias necessidade e desejos, sem seguir as de narrativas da moda. Como diria Cazuza, nadando contra a corrente, só para exercitar todo o músculo que sente. E isso tem a ver com felicidade. </p>
+    <p>O caos da cidade passa pelo meu corpo e toma conta. As coisas não são tão quadradas nem definidas. Tem espaço para tudo. Isso - pelo menos para mim que tenho meu lado sangue quente - me equilibra. Eu não preciso me esforçar para criar um movimento, para sentir, para viver, porque já está tudo ali. Dado. É só botar o pezinho na rua que a magica acontece (as vezes alguém te leva o celular também). Não é preciso se anestesiar para sentir novas sensações, pelo contrario, é só mergulhar. A ideia é ser parte. E é tudo tão bonito, desde a gota de suor que escorre, as pessoas na fila do churros, o mototáxi sem capacete e a lua então. Para mim, essa é a grande beleza. Mas enquanto isso não acontece, que nos resta é só um gemido, um grito, um desabafo.</p>
+    <img src=\"images/cronicas/caos_urb_fundo_branco.jpg\" sizes=\"(max-width: 210px) 10vw, 210px\">
+    
+    "
+
+
+  
+
   sabrina_receita:
     path: sabrina_cuzcuz.html
     page_title: "Me dá couscous?"
@@ -76,10 +154,10 @@ posts:
     main_img_path:
     post_title: "Inhotim"
     post_text: "
-    <p>Ano passado eu e Dani viajamos para Inhotim. Nossa primeira viagem juntos. </p>
-    <p>Fomos para o MECA, festival de música brasileira dentro do museu. A ideia é ótima e a execução também. Honestamente, valeu muito todos os reais que o ingresso custou, nem foi caro comparado a outros festivais e shows e além de tudo com acesso ao museu.</p>
-    <p>Hoje venho relembrar esse evento pra informar que o MECA Inhotim desse ano ocorrerá no fim de semana de 4-6 de agosto, e os <a href=\"https://meca.love/\"> ingressos já estão à venda!! </a> Bem, Inhotim é uma jóia e com MECA fica ainda mais completo: Dá pra visitar as obras e galerias durante o dia e curtir show a tardezinha e a noite.</p>
 
+    <p>Ano passado eu e Dani viajamos para Inhotim. Nossa primeira viagem juntos. </p>
+    <p>Fomos para o MECA, festival de música brasileira dentro do museu. A ideia do evento é ótima e a execução também. Inhotim é definitivamente uma jóia no interior mineiro e com MECA fica ainda mais completo: É possível visitar as obras e galerias durante o dia, curtir shows a tardezinha e a noite, ver pessoas criativas e inspiradoras. </p>
+    <p>Pra quem tem interesse, o MECA Inhotim desse ano já está com ingressos à venda e acontecerá no fim de semana de 4-6 de agosto :) Abaixo algumas dicas que talvez possam te ajudar a se preparar melhor.</p>
 
     <img src=\"images/posts_abril/inhota2.JPG\" sizes=\"(max-width: 210px) 10vw, 210px\">
 
@@ -88,14 +166,12 @@ posts:
     <img src=\"images/posts_abril/inhota3.JPG\" sizes=\"(max-width: 210px) 10vw, 210px\">
     <p><i>Foto: Dani na entrada de Inhotim</i></p>
 
-
-
     <p><strong>Recomendações gerais:</strong></p>
-    <p>-Ir em grupo de 4 pessoas é o melhor esquema pra dividir custos, mas ir em casal também rola e é bem gostosinn;
-    </br>-Ficar em BH é bom, mas lembrem-se que vocês irão dirigir bastante até o museu (em Brumadinho) todo dia ida e volta (mais ou menos 1h30min cada trecho);
+    <p>-Ir em grupo de 4 pessoas é o melhor esquema pra dividir custos, mas ir em casal também rola e é bem gostosinho;
+    </br>-Ficar em BH é bom, mas lembrem-se que vocês irão dirigir bastante até o museu em Brumadinho, todo dia ida e volta (mais ou menos 1h30min cada trecho);
     </br>-Existe uma escassez de hospedagem em Brumadinho e redondezas, então se quiser muito ficar por lá, recomendo procurar desde já;
     </br>-Se for alugar carro, recomendo um automático já que as subidas são bastante íngremes em BH e se você não tiver acostumado com a troca de marchas, vai deixar o carro morrer com frequência;
-    </br>-Protetor solar pro dia, casaco pra noite. Não esqueça.</p>
+    </br>-Protetor solar pro dia, casaco pra noite.</p>
 
     </p>Ano passado vimos Caetano Veloso, Majur, Fernanda Takai, Alceu Valença, Bala Desejo (rancinho), etc. Pra quem gosta de eletrônica tem um palco só disso. Esse ano não conseguirei ir, mas torcendo por um line up à altura.</p>
       
@@ -117,17 +193,18 @@ posts:
 
     <img src=\"images/posts_abril/looks_abril.jpg\" sizes=\"(max-width: 210px) 10vw, 210px\">
 
-    <p>Acho que os looks mais coloridos dessa vez vieram influenciados pelo revival de Sex and the City, que me fez lembrar que amo um mix de estampas e texturas (pra variar com um look minimalista bem executado).</p?
-    <p>Já ouvi que muita gente não gosta de Carrie Bradshaw, mas eu sou fã e gostaria de colocar aqui uma lista de suas qualidades, incluindo estilo:</p>
-    <p>-O jeito que ela usa as mini-bolsas e se apoia nas sacolas de pano (ecobags) pra carregar o que precisa de fato;
-    </br>-Como ela sorri e é boa amiga. Simpatia, atenção e disponibilidade pra rede dela;
-    </br>-É encorajadora (uma qualidade importantíssima);
-    </br>-Muito segura pra usar o look que quiser em qualquer ocasião;
-    </br>-Como ela gera entretenimento com umas angústias meio nada a vê: eu todinha!!!!
-    </br>-Criativa, fora da caixa e entertaining. Ela é legal, no mínimo interessante.</p>
-    <p>Sim, às vezes é um pouco egoísta e dá uns chiliques desproporcionais aos acontecimentos; da mesma forma que Miranda é, também às vezes, desatenta e descuidada (adoro Miranda!!!). Assim como Charlotte é um suquinho de convencionalismo (mas organizada, prestativa e acaba cedendo ao progresso e mudanças, ufa).</p>
-    <p>A forma com que as 3 personagens sustentam o processo de envelhecimento é bonita, admirei muito. Assistindo o Mamilos Cultura sobre a série, ouvi sobre Bethânia, que em alguma entrevista disse: <strong> “Eu gosto dos meus cabelos brancos. Das rugas, são minhas, o tempo me deu. Envelhecer é privilégio.”</strong></p>
 
+    <p>Acho que os looks mais coloridos dessa vez vieram influenciados pelo revival de Sex and the City, que se chama “And Just Like That”. Assisti recentemente e me fez lembrar que gosto de um mix de estampas e texturas pra variar com looks minimalistas bem executados. Lembrei também o quanto a série é divertida. Havia assistido as temporadas anteriores em 2011, enquanto morava na Inglaterra pra aprender o idioma e como as aulas eram só de manhã, gastei muito tempo daquele ano devorando todos aqueles longos episódios.</p>
+    <p>Já ouvi por aí que muita gente não gosta de Carrie Bradshaw, mas eu sou fã e me identifico com algumas presepadas. Portanto, e como sempre faço na newsletter, gostaria de colocar aqui uma lista de suas qualidades, incluindo estilo:</p>
+    <p>-O jeito que ela usa as mini-bolsas e se apoia nas sacolas de pano (ecobags) pra carregar o que precisa de fato;</p>
+    <p>-Como ela sorri e é boa amiga. Simpatia, atenção e disponibilidade pra rede dela;</p>
+    <p>-É encorajadora (uma qualidade importantíssima);</p>
+    <p>-Muito segura pra usar o look que quiser em qualquer ocasião;</p>
+    <p>-Como ela gera entretenimento com umas angústias meio nada a vê;</p>
+    <p>-Criativa, fora da caixa e entertaining. Ela é legal, no mínimo interessante.</p>
+    <p>Sim, às vezes é egoísta com uns chiliques desproporcionais aos acontecimentos; da mesma forma que Miranda é, também às vezes, desatenta e descuidada (adoro Miranda!). E Charlotte é controladora e demasiadamente convencional (mas organizada, prestativa e acaba cedendo ao progresso e mudanças, ufa). </p>
+    <p>A forma com que as 3 personagens sustentam o processo de envelhecimento é bonita, admirei muito. Assistindo o Mamilos Cultura sobre a série, ouvi sobre Bethânia, que em alguma entrevista disse: <strong>\"Eu gosto dos meus cabelos brancos. Das rugas, são minhas, o tempo me deu. Envelhecer é privilégio.\"</strong></p>
+    
     "
 
     date: "06 de Abril de 2023"
