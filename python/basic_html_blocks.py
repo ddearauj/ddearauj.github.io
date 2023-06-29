@@ -44,7 +44,6 @@ def generate_html(main_template: Template, kwargs: dict):
 
 
 def generate_head(page_title):
-
     return f"""
     <!--- basic page needs
     ================================================== -->
@@ -84,7 +83,6 @@ def generate_preloader():
 
 
 def generate_header():
-
     return """
     <header class="s-header">
         <div class="row s-header__content">
@@ -117,8 +115,8 @@ def generate_header():
     
     """
 
+
 def get_list_of_categorias(pages_dict):
-    
     category_list = []
     for _, page_dict in pages_dict["posts"].items():
         cat = page_dict["category"]
@@ -126,10 +124,9 @@ def get_list_of_categorias(pages_dict):
             category_list.append(cat)
 
     return category_list
-    
+
 
 def generate_page_categorias(**kwargs):
-
     main_img_path = kwargs.get("main_img_path")
     title = kwargs.get("post_title")
     category_list = kwargs.get("category_list")
@@ -140,7 +137,9 @@ def generate_page_categorias(**kwargs):
             cat_html = "I_LUV_SP"
         else:
             cat_html = category
-        category_code_string += f"""<li><a href="{cat_html}.html" title="">{category}</a></li> """
+        category_code_string += (
+            f"""<li><a href="{cat_html}.html" title="">{category}</a></li> """
+        )
         print(category_code_string)
 
     return f"""
@@ -169,11 +168,9 @@ def generate_page_categorias(**kwargs):
         </div> <!-- end row -->
     </section> <!-- end s-content -->
     """
-    
 
 
 def generate_about_content(**kwargs):
-
     main_img_path = kwargs.get("main_img_path")
     title = kwargs.get("post_title")
     text = kwargs.get("post_text")
@@ -207,7 +204,6 @@ def generate_about_content(**kwargs):
 
 
 def generate_post_content(**kwargs):
-
     main_img_path = kwargs.get("main_img_path")
     title = kwargs.get("post_title")
     text = kwargs.get("post_text")
@@ -253,7 +249,6 @@ def generate_post_content(**kwargs):
 
 
 def generate_footer():
-
     return """
     <!-- footer
     ================================================== -->
@@ -282,7 +277,6 @@ def generate_footer():
 
 
 def generate_scripts():
-
     return """
     <!-- Java Script
     ================================================== -->
@@ -293,7 +287,6 @@ def generate_scripts():
 
 
 def generate_feed(main_template: Template, pages_dict: dict):
-
     feed_html = """"""
 
     for _, page_dict in pages_dict["posts"].items():
@@ -314,7 +307,6 @@ def generate_feed(main_template: Template, pages_dict: dict):
 
 
 def generate_category_feed(main_template: Template, pages_dict: dict):
-
     cat_list = get_list_of_categorias(pages_dict)
 
     for cat in cat_list:
@@ -343,11 +335,9 @@ def generate_category_feed(main_template: Template, pages_dict: dict):
 
 
 def generate_pages(main_template: Template, pages_dict: dict):
-
     # generate pages:
     cat_list = get_list_of_categorias(pages_dict)
     # print(cat_list)
-
 
     for _, page_dict in pages_dict["pages"].items():
         page_dict["category_list"] = cat_list
@@ -359,13 +349,14 @@ def generate_pages(main_template: Template, pages_dict: dict):
     for _, page_dict in pages_dict["posts"].items():
         html = generate_html(main_template, page_dict)
 
-        with open(page_dict["path"], "w", encoding="utf-8") as f:
+        with open(f"{page_dict['path']}", "w", encoding="utf-8") as f:
             f.write(html)
 
 
 if __name__ == "__main__":
-
-    pages_dict = yaml.safe_load(Path("pages/main_pages.yaml").read_text(encoding="utf-8"))
+    pages_dict = yaml.safe_load(
+        Path("pages/main_pages.yaml").read_text(encoding="utf-8")
+    )
 
     for key in pages_dict["pages"].keys():
         if key == "about":
@@ -375,7 +366,7 @@ if __name__ == "__main__":
 
     for key in pages_dict["posts"].keys():
         pages_dict["posts"][key]["html_content_func"] = generate_post_content
-    
+
     generate_pages(main_template=main_html_template, pages_dict=pages_dict)
     generate_feed(main_template=main_html_template, pages_dict=pages_dict)
     generate_category_feed(main_template=main_html_template, pages_dict=pages_dict)
