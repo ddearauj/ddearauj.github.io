@@ -25,6 +25,19 @@ pages:
 
 posts:
 
+  ref_am:
+    path: ref_amelia.html
+    page_title: "Referências Amélia"
+    category: "Deve Ser Playlist"
+    date: "30 de Julho"
+    post_text: "
+
+    <iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/playlist/7kD0nvJZV0nC03kAa25LtV?utm_source=generator\" width=\"100%\" height=\"352\" frameBorder=\"0\" allowfullscreen=\"\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>
+
+    <p>Banda varanda, uma galera de Juiz de Fora e outros.</p>
+
+    "
+
   entrevista_amelia:
     path: amelia_e_muito_arte.html
     page_title: "Amélia é muito arte - Deve Ser Entrevista"
@@ -714,8 +727,6 @@ posts:
 
     date: "06 de Abril de 2023"
     category: "Looks"
-
-
 
   playlist_verao_23:
     path: playlist_verao_23.html
