@@ -33,6 +33,7 @@ posts:
     date: "30 de Julho"
     post_text: "
 
+    <p>Banda varanda, uma galera de Juiz de Fora e outros.</p>
     <iframe 
       style=\"border-radius:12px\" 
       src=\"https://open.spotify.com/embed/playlist/7kD0nvJZV0nC03kAa25LtV?utm_source=generator\" 
@@ -44,7 +45,6 @@ posts:
       loading=\"lazy\">
     </iframe>
 
-    <p>Banda varanda, uma galera de Juiz de Fora e outros.</p>
 
     "
 
