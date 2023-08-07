@@ -26,6 +26,46 @@ pages:
 
 posts:
 
+  music_colo:
+      path: musicacolombiana.html
+      page_title: "musicacolombiana"
+      post_title: "Música colombiana além de Shakira, por CJ"
+      category: "Deve Ser Plylist"
+      date: "06 de Agosto de 2023"
+      post_text: "
+
+      <p>Meu amigo querido CJ -que é uma de minhas muitas sortes na vida- criou essa playlist de música colombiana especialmente pro blog, com a ideia de sair do estereótipo Shakira mas sem excluir Shakira. Difícil deixar esse ícone-rolex-ferrari-fbi da geleia de fora. Deusa. </p>
+      <p>Playlist para bailar, se divertir, ser romântico, exercitar a sofrência. Tudo junto. Tem música que foi regravada por RBD (não sei se ele sabe, mas sei que vocês vão sacar). Espero que gostem tanto de ouvir quanto eu. </p>
+
+      <iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/playlist/5xqn7Aq1R4ugUd0sGx2oWk?utm_source=generator\" width=\"100%\" height=\"352\" frameBorder=\"0\" allowfullscreen=\"\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>
+
+      <div id=\"presentation-highlights\">
+        <img src=\"images/colo_foto.png\">
+      </div>
+      <br>
+      <i>A ilustração na capa é da artista colombiana Isabel Gomez Machado (@isabelgomezmachado), chamada “Casa”.</i>
+      "
+
+
+  deconolidade:
+      path: decolonialidade.html
+      page_title: "decolonialidadepovovhavenda"
+      post_title: "Decolonialidade"
+      category: "Luta"
+      date: "06 de Agosto de 2023"
+      post_text: "
+
+      <p>Gostei muito desse vídeo do Gaia Foundation com o African Earth Jurisprudence Collective sobre a jornada de Mashudu, uma mulher negra sul africana que consegue escapar da ótica colonizadora e se reconectar com sua cultura local (Povo VhaVenda). Sobretudo, Mashudu passa a criar pontes entre os sábios idosos da comunidade e os jovens locais para que possam inspirar a sabedoria ancestral, a cultura, a auto confiança e o orgulho dos povos originários da África do Sul, e transmitir seus valores e práticas para as novas gerações. Didático, real e legal de assistir. 
+      </p>
+
+      <div style=\"padding:41.88% 0 0 0;position:relative;\"><iframe src=\"https://player.vimeo.com/video/725777586?h=9e1285d21b\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture\" allowfullscreen></iframe></div><script src=\"https://player.vimeo.com/api/player.js\"></script>
+      <br>
+
+
+      <p>Gaia Foundation faz um trabalho incrível, mais informações aqui: <a href=\"https://gaiafoundation.org/rhythm-of-reconnection/ \">https://gaiafoundation.org/rhythm-of-reconnection/ </a></p>
+      "
+
+
   cogu:
     path: trufa.html
     page_title: "Cogumelos"
@@ -367,8 +407,6 @@ posts:
 
 
     "
-
-
 
   texto_dudu:
     path: getpcbf.html
@@ -803,51 +841,6 @@ posts:
 
     date: "20 de Janeiro de 2023"
     category: "Deve Ser Playlist"
-
-  looks_escritas:
-    path: looks_escritas.html
-    page_title: Looks de trabalho & meta de ano novo
-    main_img_path:
-    post_title: Looks de trabalho & meta de ano novo
-    post_text: "
-    <p>
-    É janeiro e uma das minhas metas pra esse ano é ir ao escritório com mais frequência. 
-    Leia-se: duas vezes por semana. Basta. E uma das motivações para atingir esse objetivo são os 
-    lookinhos do dia -os close friends acompanharam :) e por isso acho que sou oficialmente blogueira 
-    pois ter um blog não é o suficiente, pra ganhar o título tem que fazer os looks do dia :P 
-    </p>
-
- 
-    <img src=\"images/looks_escritas/looks.jpg\" sizes=\"(max-width: 210px) 10vw, 210px\">
-    <p>
-    <i>Foto: Seleção de looks usados esse mês, pardon pelo espelho sujo :P Gosto dos looks soltinhos. Como todo o meu guarda-roupa, tem muito uniqlo, renner e myfots.E uma blusa herdada da minha tia que deve ter mais de 10 anos de existência.
-    </i>
-    <br>
-    </p>
-
-    <p>
-    Essa meta surgiu, pois, além de ser recomendação do RH (rs) 
-    acabo sendo mais focada e produtiva lá, gosto de ver o pessoal e fazer algumas reuniões presenciais, 
-    se possível. Acho importante ter essa visibilidade, mas acabo chegando morta em casa depois do trabalho 
-    e ainda não consigo entender como a gente sobreviveu tanto tempo sem o remoto. Loucura.
-    </p>
-    
-
-    <p>
-    Ao mesmo tempo que quero ir mais vezes ao escritório, também me pego pensando que tenho
-    liberdade suficiente pra trabalhar do nordeste, por exemplo. Acordar e mergulhar no mar; 
-    ou de algum lugar perto da floresta. E que a vida é muito curta pra viver em São Paulo o tempo todo. 
-    Por isso, se cumprir minha meta de escritório por 3 meses, quero tirar um tempo (1 semana? 1 mês?) trabalhando 
-    remoto de algum outro lugar longe da cidade grande. Planos.
-    </p>
-
-    <p>
-    E vocês? O que querem fazer esse ano? 
-    Mandem para deveseraquiblog@gmail.com :)
-    </p>
-    "
-    date: "6 de Abril de 2023"
-    category: "Looks"
 
   comentarios_cami:
     path: comentarios_cami.html
