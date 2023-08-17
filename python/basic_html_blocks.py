@@ -233,7 +233,7 @@ def generate_post_content(**kwargs):
 
                     <div class="s-content__primary">
 
-                        <h2 class="s-content__title s-content__title--post"><a href="post/{path}>{title}</a></h2>
+                        <h2 class="s-content__title s-content__title--post"><a href="posts/{path}">{title}</a></h2>
 
                         <ul class="s-content__post-meta">
                             <li class="date">{date}</li>
@@ -282,7 +282,6 @@ def generate_footer():
 def generate_footer_feed(current_page, max_page):
     return_html = """ """
     return_html += """
-    <div class="row">
             <div class="column large-12">
                 <nav class="pgn">
                     <ul>
@@ -321,7 +320,6 @@ def generate_footer_feed(current_page, max_page):
                     </ul>
                 </nav> <!-- end pgn -->
             </div> <!-- end column -->
-        </div>
 
     <!-- footer
     ================================================== -->
