@@ -142,7 +142,7 @@ def generate_page_categorias(**kwargs):
         category_code_string += (
             f"""<li><a href="{cat_html}.html" title="">{category}</a></li> """
         )
-        print(category_code_string)
+        # print(category_code_string)
 
     return f"""
     <section class="s-content">
@@ -211,6 +211,7 @@ def generate_post_content(**kwargs):
     text = kwargs.get("post_text")
     date = kwargs.get("date")
     category = kwargs.get("category")
+    path = kwargs.get("path")
 
     if category == "I <3 SP":
         cat_html = "I_LUV_SP"
@@ -232,7 +233,7 @@ def generate_post_content(**kwargs):
 
                     <div class="s-content__primary">
 
-                        <h2 class="s-content__title s-content__title--post">{title}</h2>
+                        <h2 class="s-content__title s-content__title--post"><a href="post/{path}>{title}</a></h2>
 
                         <ul class="s-content__post-meta">
                             <li class="date">{date}</li>
@@ -278,6 +279,78 @@ def generate_footer():
     """
 
 
+def generate_footer_feed(current_page, max_page):
+    return_html = """ """
+    return_html += """
+    <div class="row">
+            <div class="column large-12">
+                <nav class="pgn">
+                    <ul>
+                        <li>
+                            <a class="pgn__prev" href="#0">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M12.707 17.293L8.414 13H18v-2H8.414l4.293-4.293-1.414-1.414L4.586 12l6.707 6.707z"></path></svg>
+                            </a>
+                        </li>
+    """
+
+    for i in range(0, max_page):
+
+        if current_page == i:
+            class_str = " current"
+        else:
+            class_str = ""
+
+        if i == 0:
+            return_html += f"""
+                <li><a class="pgn__num{class_str}" href="index.html">{i+1}</a></li>
+            """
+
+        else:
+            return_html += f"""
+                <li><a class="pgn__num{class_str}" href="page_{i+1}.html">{i+1}</a></li>
+            """
+
+
+
+    return_html += """
+                        <li>
+                            <a class="pgn__next" href="#0">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M11.293 17.293l1.414 1.414L19.414 12l-6.707-6.707-1.414 1.414L15.586 11H6v2h9.586z"></path></svg>
+                            </a>
+                        </li>
+                    </ul>
+                </nav> <!-- end pgn -->
+            </div> <!-- end column -->
+        </div>
+
+    <!-- footer
+    ================================================== -->
+    <footer class="s-footer">
+
+        <div class="s-footer__bottom">
+            <div class="row">
+                <div class="column">
+                    <div class="ss-copyright">
+                        <span>Design by <a href="https://www.styleshout.com/">StyleShout</a></span>
+                    </div> <!-- end ss-copyright -->
+                </div>
+            </div>
+
+            <div class="ss-go-top">
+                <a class="smoothscroll" title="Back to Top" href="#top">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+                        <path d="M6 4h12v2H6zm5 10v6h2v-6h5l-6-6-6 6z" />
+                    </svg>
+                </a>
+            </div> <!-- end ss-go-top -->
+        </div> <!-- end s-footer__bottom -->
+
+    </footer> <!-- end s-footer -->
+    """
+
+    return return_html
+
+
 def generate_scripts():
     return """
     <!-- Java Script
@@ -290,10 +363,36 @@ def generate_scripts():
 
 def generate_feed(main_template: Template, pages_dict: dict):
     feed_html = """"""
+    post_counter = 1
+    page = 0
+
+    
 
     for _, page_dict in pages_dict["posts"].items():
         # print(page_dict)
         feed_html += generate_post_content(**page_dict)
+        print(f"({post_counter}, {[page]})", end=", ")
+        if post_counter % 6 == 0:
+            print("opaaaa")
+            final_html = main_template.substitute(
+                head=generate_head("Feed"),
+                preloader=generate_preloader(),
+                header=generate_header(),
+                content=feed_html,
+                footer=generate_footer_feed(current_page=page, max_page=len(pages_dict["posts"].keys())//5),
+                scripts=generate_scripts(),
+            )
+            feed_html = """"""
+
+            if page == 0:
+                with open("index.html", "w", encoding="utf-8") as f:
+                    f.write(final_html)
+                    page += 1
+            else:
+                page += 1
+                with open(f"page_{page}.html", "w", encoding="utf-8") as f:
+                    f.write(final_html)
+        post_counter+=1
 
     final_html = main_template.substitute(
         head=generate_head("Feed"),
@@ -304,7 +403,8 @@ def generate_feed(main_template: Template, pages_dict: dict):
         scripts=generate_scripts(),
     )
 
-    with open("index.html", "w", encoding="utf-8") as f:
+    page += 1
+    with open(f"page_{page}.html", "w", encoding="utf-8") as f:
         f.write(final_html)
 
 
@@ -332,7 +432,7 @@ def generate_category_feed(main_template: Template, pages_dict: dict):
         if cat == "I <3 SP":
             cat = "I_LUV_SP"
 
-        with open(f"{cat}.html", "w", encoding="utf-8") as f:
+        with open(f"categorias/{cat}.html", "w", encoding="utf-8") as f:
             f.write(final_html)
 
 
@@ -351,7 +451,7 @@ def generate_pages(main_template: Template, pages_dict: dict):
     for _, page_dict in pages_dict["posts"].items():
         html = generate_html(main_template, page_dict)
 
-        with open(f"{page_dict['path']}", "w", encoding="utf-8") as f:
+        with open(f"posts/{page_dict['path']}", "w", encoding="utf-8") as f:
             f.write(html)
 
 
