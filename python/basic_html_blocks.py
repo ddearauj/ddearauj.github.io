@@ -58,8 +58,8 @@ def generate_head(page_title):
 
     <!-- CSS
     ================================================== -->
-    <link rel="stylesheet" href="css/styles.css">
-    <link rel="stylesheet" href="css/vendor.css">
+    <link rel="stylesheet" href="/css/styles.css">
+    <link rel="stylesheet" href="/css/vendor.css">
 
     <!-- script
     ================================================== -->
