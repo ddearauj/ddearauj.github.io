@@ -89,7 +89,7 @@ def generate_header():
     <header class="s-header">
         <div class="row s-header__content">
             <div class="s-header__logo">
-                <a class="logo" href="index.html">
+                <a class="logo" href="/index.html">
                     <img src="/images/heart-svgrepo-com.svg" alt="Homepage">
                 </a>
             </div>
@@ -99,9 +99,9 @@ def generate_header():
                 <h2 class="s-header__nav-heading h6">Site Navigation</h2>
 
                 <ul class="s-header__nav">
-                    <li><a href="index.html" title="">Home</a></li>
-                    <li><a href="categorias.html" title="">Categorias</a></li>
-                    <li><a href="about.html" title="">Sobre</a></li>
+                    <li><a href="/index.html" title="">Home</a></li>
+                    <li><a href="/categorias.html" title="">Categorias</a></li>
+                    <li><a href="/about.html" title="">Sobre</a></li>
                 </ul> <!-- end header__nav -->
 
                 <a href="#0" title="Close Menu" class="s-header__overlay-close close-mobile-menu">Close</a>
