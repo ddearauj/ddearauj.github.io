@@ -25,7 +25,106 @@ pages:
     post_title: "Categorias"  
 
 posts:
+  grifos_tvdcca:
+    path: grifos_tvdcca.html
+    page_title: "Talvez você deva conversar com alguém"
+    post_title: "Talvez você deva conversar com alguém"
+    category: "#GrifosDigitais"
+    date: "28 de Agosto de 2023"
+    post_text: "
+      <p>Esse é o título do best-seller de Lori Gottlieb que conta sobre seu processo de análise, a relação com seu
+        analista, e sua experiência analisando pacientes. Sendo sucinta, não amei o livro, e acredito que o principal motivo
+        para isso foi não ter simpatizado com a autora; ou apenas não sentir super admiração, curiosidade ou interesse por
+        ela.
+      </p>
+      <p>Muito da narrativa, ou pelo menos grande parte do começo, são justificativas sobre a escolha tardia da psicologia, ao
+        mesmo tempo em que se gaba sobre suas habilidades e inteligência. A minha impressão é que ela está escrevendo
+        enquanto faz uma entrevista de emprego, e apesar de tentar compensar mostrando também suas vulnerabilidades e
+        momentos difíceis que enfrentou, o faz de uma forma MUITO ENTREVISTA DE EMPREGO mesmo. </p>
+      <p>(Dito isso, acho que essa percepção e opinião é muito particular, talvez enviesada pelas minhas próprias experiências
+          e traumas. Talvez ela seja apenas ADULTA, madura e tenha uma ótima relação com o pai, e isso me incomoda de alguma
+          forma. -E sim, talvez isso diga mais sobre mim do que sobre ela.) </p>
+      <p>Ainda assim, não invalido a importância dessa leitura, mesmo que penosa e chatinha -não por acaso, demorei uns bons 2
+          meses pra terminar- através da qual aprendi sobre teorias e conceitos da psicologia e sobre comportamento humano.
+      </p>
+      <p>Enfim,<br>
+      falei mal<br>
+      falei mal<br>
+      mas gostei. Então deixo aqui 20 aprendizados compilados (pílulas de conhecimento da psicologia & psicanálise) que
+          obtive durante essas 443 páginas: </p>
 
+      <p><strong>1. Diferença entre compaixão idiota e compaixão sábia:</strong> \"Na compaixão idiota, você evita balançar o barco para poupar
+          os sentimentos das pessoas, ainda que o barco precise ser balançado, e sua compaixão acabe sendo mais nociva do que
+          sua honestidade. As pessoas fazem isso com adolescentes, cônjuges, viciados, até consigo mesmas. Seu oposto é a
+          compaixão sábia, que significa importar-se com a pessoa, mas também lançar-lhe uma amorosa bomba de verdade, quando
+          necessário.\" </p>
+      <p><strong>2. O mito da neutralidade do terapeuta:</strong> \"Em vez de sermos neutros, nós, terapeutas, esforçamo-nos para notar nossas
+          sensações não neutras, tendências e opiniões, de modo a podermos nos afastar e decidir o que fazer com eles. Usamos
+          nossos sentimentos, em vez de suprimi-los, como ajuda para orientar o tratamento.\" </p>
+      <p><strong>3. Acalmando os nervos: </strong>\"Os neurocientistas descobriram que os seres humanos têm células cerebrais chamadas
+          neurônios-espelhos, que os levam a imitar os outros, e quando as pessoas estão em um estado emocional exacerbado,
+          uma voz relaxante pode acalmar seu sistema nervoso e ajudá-las a se manter presentes.\" </p>
+      <p><strong>4. Entorpecimento x apatia:</strong> \"As pessoas frequentemente confundem entorpecimento com apatia, mas esse torpor -de se
+          paralisar diante determinada situação- não é a ausência de sentimentos, e sim uma reação a um excesso de emoções.\"
+      </p>
+      <p><strong>5. O futuro no presente:</strong>\"Tendemos a pensar que o futuro acontece mais tarde, mas ele está sendo criado em nossa
+          mente todos os dias. Quando o presente desmorona, o mesmo acontece com o futuro que associamos a ele. E ter o futuro
+          subtraído é a mãe de todas as reviravoltas em uma trama.\" </p>
+      <p><strong>6. Insights sobre parentalidade:</strong> \"Sempre que ouço falarem em pais santos, desconfio. Não que esteja procurando
+          problemas; só que não existe pai ou mãe santos. A maioria acaba sendo os <strong>pais \"bons o suficiente\"</strong>, que Donald
+          Winnicott, o influente pediatra inglês e psiquiatra infantil, <strong>acreditava bastar para uma criança bem ajustada.</strong>\" E
+          ainda em outro contexto: \"Goethe sintetizou esse sentimento: Um número enorme de pais e mães dificultam a vida para
+          os filhos tentando, com um excesso de cuidado, facilitá-las para eles.\"; e \"As regras fundamentais para uma boa
+          parentalidade são simples: moderação, empatia e adequação de temperamento com o filho.\" </p>
+      <p><strong>7. Nossos medos, alguns inconscientes:</strong> \"Temos medo de nos machucarmos, de sermos humilhados, do fracasso e do
+          sucesso. Medo de ficar sozinhos, e de estabelecer ligação. Medo de escutar o que nossos corações dizem, de ser
+          infelizes e de ser felizes demais. Medo de não ter a aprovação de nossos pais, e de nos aceitar como realmente
+          somos; medo de uma saúde ruim, e de uma boa sorte. Medo de nossa inveja e de possuir em excesso; medo de ter
+          esperança em relação a coisas que podemos não conseguir. Temos medo de mudança, e de não mudar, medo de que algo
+          aconteça a nossos filhos, a nosso trabalho. Medo de não ter controle, e de nosso próprio poder. Temos medo da
+          brevidade da nossa vida, e da duração da nossa morte. Medo de ser responsáveis por nossas próprias vidas.\" </p>
+      <p><strong>8. É uma fórmula:</strong> Felicidade = Realidade – Expectativa </p>
+      <p><strong>9. Se libertar:</strong> \"A terapia tem a ver com entender o indivíduo que você é. Mas parte de entender a si mesmo é
+          desconhecer a si mesmo, abrir mão das histórias limitantes que você vem se contando sobre quem você é, de modo a não
+          ficar aprisionado por elas, podendo viver a sua vida.\" </p>
+      <p><strong>10. Insight x mudança:</strong> \"O insight é o prêmio de consolação da terapia, significa que você pode ter toda a percepção
+          do mundo, mas se não mudar quando estiver à solta lá fora, o insight – e a terapia – são inúteis.\" \"O insight
+          permite que você se pergunte: Isso é algo que estão fazendo comigo, ou eu estou causando a mim mesma?\" </p>
+      <p><strong>11. Ter um \"tipo\" e \"compulsão repetitiva\" de Freud:</strong> \"O que a maioria das pessoas quer dizer com tipo é uma sensação
+          de atração, um tipo de aparência física, ou um tipo de personalidade que as incita. Mas o que realça o tipo de uma
+          pessoa, de fato, é uma sensação de familiaridade. (...) Esse sentimento do familiar dificulta distinguir o que elas
+          querem como adultas daquilo que experenciaram quando crianças. Elas têm uma atração inquietante por pessoas que
+          compartilham as características de um genitor que, sob algum aspecto, as magoou. (...) Não é que as pessoas queiram
+          se machucar novamente, mas sim dominar uma situação na qual se sentiam impotentes quando crianças. Freud chamou isso
+          de compulsão repetitiva\". </p>
+      <p><strong>12.</strong> \"Toda decisão feita é baseada em duas coisas: medo e amor. A terapia luta para ensinar como diferenciar um do
+          outro.\" </p>
+      <p><strong>13. Uso do tempo:</strong> \"O homem moderno acha que perde alguma coisa -tempo- quando não faz as coisas rapidamente; no
+          entanto, não sabe o que fazer com o tempo que ganha, a não ser desperdiçá-lo\", provou o psicanalista Erich Fromn há
+          mais de cinquenta anos; </p>
+      <p><strong>14. Virou clichê, mas é verdade! Do psiquiatra Viktor Frankl:</strong> \"Existe um intervalo entre o estímulo e a resposta.
+          Nesse intervalo está nosso poder de escolha para a nossa resposta. Em nossa resposta está nosso crescimento e nossa
+          liberdade.\" </p>
+      <p><strong>15.</strong> \"Compartilhar verdades difíceis traz um custo, a necessidade de encará-las, mas também há uma recompensa: a
+          liberdade. <strong>A verdade nos liberta da vergonha.\"</strong> </p>
+      <p><strong>16. O termo \"querofobia\" representa o medo irracional da alegria.</strong> \"É comum que as pessoas com histórias traumáticas
+          esperem desastres a qualquer instante. Em vez de se apoiar no que vier de bom, tornam-se super vigilantes, sempre
+          esperando que alguma coisa dê errado.\" (...) \"Para algumas pessoas, a alegria não é um prazer; é uma dor
+          antecipada.\" </p>
+      <p><strong>17. \"É possível se ter compaixão sem perdoar.</strong> Existem muitas maneiras de seguir em frente, e fingir que se sente de
+          determinada maneira não é uma delas.\" </p>
+      <p><strong>18.</strong> \"As sessões a que os pacientes comparecem sem estar numa crise, nem ter uma pauta, tendem a ser as mais
+          reveladoras.\" </p>
+      <p><strong>19. Mecanismos de defesa primitivos, maduros, e neuróticos:</strong> \"No grupo de mecanismos de defesa maduros está a
+          sublimação, que é quando uma pessoa transforma um impulso potencialmente danoso em algo menos prejudicial (como um
+          homem com impulsos agressivos aderir ao boxe), ou mesmo construtivo (uma pessoa com impulso de cortar pessoas se
+          transformar num cirurgião e salvar vidas). (...) Já a defesa neurótica acontece for meio da \"transferência\", quando
+          por exemplo uma pessoa que ouviu gritos do chefe, chega em casa e grita com seu cachorro.\" </p>
+      <p><strong>20. Terapia e GOALS:</strong> Aprender a viver com o que se é, e com o que se tem. E acima disso, se sentir confortável
+          consigo mesmo. Deixar para trás uma mentalidade restritiva e mais que isso, parar de ser tão restritiva. </p>
+
+      <p>E depois de escrever tudo isso, percebi que parece mais um fichamento (rs), sorry!
+      "
   grifos_intro:
     path: grifos_introducao.html
     page_title: "Grifos"
@@ -48,7 +147,7 @@ posts:
     path: acivilizacao.html
     page_title: "Civilização e Antropologia"
     post_title: "A civilização é uma ajuda comunitária "
-    category: "Coisas extraordinárias"
+    category: "Coisas Extraordinárias"
     date: "16 de Agosto de 2023"
     post_text: "
     <p>Vi essa postagem no LinkedIn pela antropóloga <a href=\"https://www.linkedin.com/in/dianabrasilis/\">Diana Brasilis</a> e achei lindo e extraordinário essa mensagem estar naquele canal e claro, deu vontade de compartilhar aqui também. Segue:</p>
@@ -82,7 +181,7 @@ posts:
         <img src=\"images/colo_foto.png\">
       </div>
       <br>
-      <i>A ilustração na capa é da artista colombiana Isabel Gomez Machado (@isabelgomezmachado), chamada “Casa”.</i>
+      <i>A ilustração na capa é da artista colombiana Isabel Gomez Machado (@isabelgomezmachado), chamada \"Casa\".</i>
       "
 
 
@@ -119,7 +218,7 @@ posts:
     <p>Na loja havia um cardápio de 1 a 5 variando conforme a intensidade da experiência procurada. Compramos o número 1 para mim e o número 3 para eles. As embalagens são realmente bem feitas, como notaram meus amigos pra quem mandei fotos. Comi só a metade da minha dose e até uns 40 minutos depois, já no parque, não estava sentindo nada. Eis que de repente, em um estalo, minha amiga começou a destoar da paisagem no meu campo de visão, em uma resolução 4K, uma fotografia dreamy muito bem editada, e em movimento.
     </p>
 
-    <p>Senti medo de novo, medo de como eu me sentiria, como meu corpo processaria aquele fungo, mas sobretudo medo de morrer fazendo alguma coisa “errada”, que desapontasse as pessoas que se importam comigo. Depois percebi que não ia morrer, mas que morrer parece solitário, e me entreguei às sensações que chegavam até mim.</p>
+    <p>Senti medo de novo, medo de como eu me sentiria, como meu corpo processaria aquele fungo, mas sobretudo medo de morrer fazendo alguma coisa \"errada\", que desapontasse as pessoas que se importam comigo. Depois percebi que não ia morrer, mas que morrer parece solitário, e me entreguei às sensações que chegavam até mim.</p>
 
     <p>Era gostoso ver o céu em um roxo brilhante e em movimento, a grama funda e cintilante, parecendo uma capa de CD. Olhar pro lado e ver a Sabrina tão tranquila e feliz, o Dani todo deslumbrado e tagarela. Vontade de rir e de abraçá-los, pensando no enorme amor que sinto pelos dois, ao som de Palace.</p>
 
@@ -270,7 +369,7 @@ posts:
     path: ams_aposentadoria.html
     page_title: "\"Adiantando a aposentadoria\" - por Dani"
     post_title: "\"Adiantando a aposentadoria\" - por Dani"
-    category: "Diario"
+    category: "Diário"
     date: "7 de Julho de 2023"
     post_text: "
     <p>
@@ -399,7 +498,7 @@ posts:
     path: junho_longo.html
     page_title: "Ainda Junho"
     post_title: "Ainda Junho"
-    category: "Diario"
+    category: "Diário"
     date: "29 de Junho de 2023"
     post_text: "
 
@@ -427,12 +526,12 @@ posts:
     </p>
 
 
-    <p><strong>Eu estou lendo no momento:</strong> “Talvez você deva conversar com alguém”, de Lori Gottlieb. E estou achando ok, interessante entender alguns fundamentos de psicologia permeados no enredo que até agora é apenas aceitável -entenda como um “não maravilhoso”;</p>
+    <p><strong>Eu estou lendo no momento:</strong> \"Talvez você deva conversar com alguém\", de Lori Gottlieb. E estou achando ok, interessante entender alguns fundamentos de psicologia permeados no enredo que até agora é apenas aceitável -entenda como um \"não maravilhoso\";</p>
 
     <p><strong>Eu estou vendo no momento:</strong> Por aqui acabamos Ted Lasso (porque o Dani ama) e Succession (obra prima)*. Agora estamos assistindo Drops of God na Apple TV, mas tá difícil engatar. 
     </p>
 
-    <p>Uma dica de <strong>filme que amei muito</strong> é “Minha vida de abobrinha” (MA VIE DE COURGETTE) <3 A animação stop motion francesa é sensível e adorável. Estou apaixonada!!! Está no MUBI.</p>
+    <p>Uma dica de <strong>filme que amei muito</strong> é \"Minha vida de abobrinha\" (MA VIE DE COURGETTE) <3 A animação stop motion francesa é sensível e adorável. Estou apaixonada!!! Está no MUBI.</p>
 
     <div id=\"presentation-highlights\"><img src=\"images/abobrinha.jpg\"></div>
 
@@ -454,10 +553,10 @@ posts:
     category: "Literatura"
     date: "01 de Junho de 2023"
     post_text: "
-    <p>Dudu me mandou esse texto em uma terça feira a noite e antes de abrir já imaginei a grandeza, sentindo um “putz, lá vem coisa cabeçuda”, no sentido desafiador mesmo.</p>
-    <p>Depois de ler pela primeira vez, suei. Pensei comigo: “tenho nem roupa pra subir isso no blog e misturar com meus textos bobinhos, amenidades e looks do dia”. De qualquer forma, sugiro que esse texto não seja lido apenas uma vez. No meu caso, lerda que sou, foram repetidas vezes até que fosse bem digerido, o que também me deu fôlego e coragem para escrever uma introdução razoavelmente adequada para ele (será que ficou mesmo?).</p>
+    <p>Dudu me mandou esse texto em uma terça feira a noite e antes de abrir já imaginei a grandeza, sentindo um \"putz, lá vem coisa cabeçuda\", no sentido desafiador mesmo.</p>
+    <p>Depois de ler pela primeira vez, suei. Pensei comigo: \"tenho nem roupa pra subir isso no blog e misturar com meus textos bobinhos, amenidades e looks do dia\". De qualquer forma, sugiro que esse texto não seja lido apenas uma vez. No meu caso, lerda que sou, foram repetidas vezes até que fosse bem digerido, o que também me deu fôlego e coragem para escrever uma introdução razoavelmente adequada para ele (será que ficou mesmo?).</p>
     <p>A verdade é que Dudu não faz nada malfeito quiçá mediano. Tudo que põe no mundo é de completa distinção. Desde criança é assim. Hoje mestre em Tradução Literária pelo Trinity College, é o maior especialista em Tolkien desse Brasil (quem discorda tá errado) e dono do vocabulário mais refinado que conheço.</p>
-    <p>O tema que traz é também dos mais significativos, o sentido da vida e da morte, por Cecília Meireles, Quintana e Manuel Bandeira. Tema esse que tenho visitado recentemente também em outros conteúdos: no luto de Joan Didion (no livro “O Ano do Pensamento Mágico”), no cinema de Bergman (no filme “O Sétimo Selo” de 1957 -que inclusive acredito que Dudu irá gostar muito pois sueco) e que todos vivemos recentemente por conta da morte de Rita Lee, que pra tantos faz parte dos que tiveram um bom legado, como Dudu descreve no fim do texto. Da minha parte, só busco registrar por aqui o que estamos vivendo no momento.</p>
+    <p>O tema que traz é também dos mais significativos, o sentido da vida e da morte, por Cecília Meireles, Quintana e Manuel Bandeira. Tema esse que tenho visitado recentemente também em outros conteúdos: no luto de Joan Didion (no livro \"O Ano do Pensamento Mágico\"), no cinema de Bergman (no filme \"O Sétimo Selo\" de 1957 -que inclusive acredito que Dudu irá gostar muito pois sueco) e que todos vivemos recentemente por conta da morte de Rita Lee, que pra tantos faz parte dos que tiveram um bom legado, como Dudu descreve no fim do texto. Da minha parte, só busco registrar por aqui o que estamos vivendo no momento.</p>
     <p>Obrigada Dudu, por esse presente.</p>
     <br>
 
@@ -467,7 +566,7 @@ posts:
 
     <p>Quando o poeta Manuel Bandeira morreu, em 1968, seu amigo e também poeta Mario Quintana escreveu uma pequena homenagem. Nela, diz sempre ter considerado \"uma bênção do Destino ter sido contemporâneo e merecido a amizade de Manuel Bandeira. E, também, de Cecília Meireles, a quem nós dois queríamos tanto. <strong>Leva a ela o meu beijo, Manuel!</strong>\"</p>
   	<p>Cecília Meireles já havia partido quase quatro anos antes, e Quintana ainda viveria umas três décadas. Que trio! Grandes nomes da nossa literatura encapsulados nesse singelo texto que, no fim das contas, fala sobre a Morte e sobre o que fizemos antes dela.</p>
-    <p>Os três dedicaram muitos poemas a esse assunto e, aqui e ali, podemos fisgar versinhos interessantes sobre a nossa passagem por esse chão. Cecília Meireles (mais propriamente o seu “eu-lírico”) às vezes expressava uma visão que uns chamariam de \"niilista\". No finzinho de Paisagem Mexicana, por exemplo, uma mulher sozinha, chorando, olhava para os céus:</p>
+    <p>Os três dedicaram muitos poemas a esse assunto e, aqui e ali, podemos fisgar versinhos interessantes sobre a nossa passagem por esse chão. Cecília Meireles (mais propriamente o seu \"eu-lírico\") às vezes expressava uma visão que uns chamariam de \"niilista\". No finzinho de Paisagem Mexicana, por exemplo, uma mulher sozinha, chorando, olhava para os céus:</p>
     </br>
 
     <p><i>Talvez perguntasse aos santos:<br>
@@ -727,7 +826,7 @@ posts:
     page_title: "Caos e Urbanismo"
     main_igm_path: 
     post_title: "Caos e Urbanismo"
-    category: Cronicas
+    category: Crônicas
     date: "29 de Abril de 2023"
     post_text: "
     <p><a href=\"https://instagram.com/luccaviersa?igshid=YmMyMTA2M2Y=\">Lucca</a> é doutorando em Planejamento Urbano, mora em Lisboa e toda vez que eu o encontro sinto uma grande alegria dentro de mim misturada com a sensação de que tudo é possível. A crônica abaixo, da qual compartilho visão, ele escreveu especialmente para o blog.</p>
@@ -737,7 +836,7 @@ posts:
     <p>O meu corpo precisa de caos. Passamos muito tempo tentando ordenar aquilo que não é ordenável. Tentamos prever e organizar a vida: que horas sair de casa, que rua andar, que rua não andar, quem encontrar, sentir, anestesiar. Gastamos uma grande quantidade de energia nesse processo. Para mim isso é completamente à toa, simplesmente não faz sentido. O mundo é caótico, viver passa por aceitar o caos e não tentar organizá-lo (é impossível), mas sim aprender a andar nele. A navegar. Fluir (para usar palavras da moda).</p>
     <p>Saindo do âmbito pessoal e pensando nas cidades, minha experiência morando em alguns lugares na Europa tem me feito pensar na relação entre caos e urbanismo. Nas cidades nortes vejo uma tentativa de domar o caos: tudo é arrumado, limpo, ascético, para utilizar as ruas é preciso pedir autorização, para protestar é preciso pedir autorização, para sentar talvez seja preciso pedir autorização também, resumindo tenta-se ordenar a vida. Esse modelo é tomado como referência por diversos planejadores urbanos. No entanto, cada vez mais enxergo a pobreza dessa forma de organizar o mundo. Não há espaço para inovações - nada pode sair do planejado. Não há espaço para a espontaneidade, talvez nem espaço para a vida mesmo. Isso também se reflete nas formas de sociabilidade que encontramos na rua, muito mais rígidas, engessadas e determinadas por hábitos de consumo. Para mim, a cidade norte está quase morta. É uma anestesia, pode ser um simulacro de algo ou mesmo uma versão grande da Disney. Nesse contexto, acredito que é praticamente impossível produzir o novo. Como diria Ney Matogrosso, ventos do norte não movem moinhos. </p>
     <p>A cidade sul por sua vez é o caos em definição. O trânsito, a bicicleta, o morador de rua com 10 cachorros, para não falar dos engravatados e das madames de salto alto nas calçadas irregulares, os vendedores: carregador de celular, ohhh a pipoca, brahma latão, cuidado menino, não mexe no celular na rua, vão te assaltar. Se for o rio de janeiro então temos alguns adicionais, o bueiro que explode, o cheiro de mijo quase que constante em vários lugares, os motoristas de ônibus que nunca param (o 456 então é uma lenda), as constantes enchentes, onde a cidade vira um rio de uma hora para outra, tudo isso temperado há mais de 40 graus. </p>
-    <p>Não é que não exista nenhuma ordem, o caos não é isso. Tem regras, tem organização, mas diferente da cidade norte. Na cidade sul sobra espaço para inovação, para o espontâneo e isso se aplica a diferentes campos: da política, do lazer, da economia, da vida. Todos eles sobrepostos, não é possível isolá-los. Esses lugares são para novas ocupações do espaço público, para vender, para protestar, interagir com as pessoas, para se relacionar. É uma pulsão de vida constante. Tudo está vivo. O movimento é constante. Isso para mim é fluir. Claro que isso tem a ver com as tensões sociais, as desigualdades e o sistema capitalista (que tornam as coisas muito mais competitivas - é preciso matar ou morrer todos os dias). Não é uma romantização da pobreza, mas talvez mostrar que quanto mais longe dos padrões que nos são vendidos como modelos de “civilização”, mais perto estaremos de nós mesmos. Perto de nós mesmos, para mim significa entender nossas próprias necessidade e desejos, sem seguir as de narrativas da moda. Como diria Cazuza, nadando contra a corrente, só para exercitar todo o músculo que sente. E isso tem a ver com felicidade. </p>
+    <p>Não é que não exista nenhuma ordem, o caos não é isso. Tem regras, tem organização, mas diferente da cidade norte. Na cidade sul sobra espaço para inovação, para o espontâneo e isso se aplica a diferentes campos: da política, do lazer, da economia, da vida. Todos eles sobrepostos, não é possível isolá-los. Esses lugares são para novas ocupações do espaço público, para vender, para protestar, interagir com as pessoas, para se relacionar. É uma pulsão de vida constante. Tudo está vivo. O movimento é constante. Isso para mim é fluir. Claro que isso tem a ver com as tensões sociais, as desigualdades e o sistema capitalista (que tornam as coisas muito mais competitivas - é preciso matar ou morrer todos os dias). Não é uma romantização da pobreza, mas talvez mostrar que quanto mais longe dos padrões que nos são vendidos como modelos de \"civilização\", mais perto estaremos de nós mesmos. Perto de nós mesmos, para mim significa entender nossas próprias necessidade e desejos, sem seguir as de narrativas da moda. Como diria Cazuza, nadando contra a corrente, só para exercitar todo o músculo que sente. E isso tem a ver com felicidade. </p>
     <p>O caos da cidade passa pelo meu corpo e toma conta. As coisas não são tão quadradas nem definidas. Tem espaço para tudo. Isso - pelo menos para mim que tenho meu lado sangue quente - me equilibra. Eu não preciso me esforçar para criar um movimento, para sentir, para viver, porque já está tudo ali. Dado. É só botar o pezinho na rua que a magica acontece (as vezes alguém te leva o celular também). Não é preciso se anestesiar para sentir novas sensações, pelo contrario, é só mergulhar. A ideia é ser parte. E é tudo tão bonito, desde a gota de suor que escorre, as pessoas na fila do churros, o mototáxi sem capacete e a lua então. Para mim, essa é a grande beleza. Mas enquanto isso não acontece, que nos resta é só um gemido, um grito, um desabafo.</p>
     <img src=\"images/cronicas/caos_urb_fundo_branco.jpg\" sizes=\"(max-width: 210px) 10vw, 210px\">
     
@@ -753,7 +852,7 @@ posts:
     Ela é linda, legal demais e sempre foi uma referência pra mim, 
     talvez por ser muito talentosa nas artes e na culinária além de outros campos. 
     Hoje faz uma participação com a primeira receita do blog, que ela adaptou de uma criação do Ottolenghi 
-    (muito chique, nem conhecia kkkk). O nome é “bolinho de couscous??” ela disse, pensativa. 
+    (muito chique, nem conhecia kkkk). O nome é \"bolinho de couscous??\" ela disse, pensativa. 
     </p>
     
     <img src=\"images/posts_abril/sabrina_czcz.JPG\" sizes=\"(max-width: 210px) 10vw, 210px\">
@@ -840,7 +939,7 @@ posts:
     <img src=\"images/posts_abril/looks_abril.jpg\" sizes=\"(max-width: 210px) 10vw, 210px\">
 
 
-    <p>Acho que os looks mais coloridos dessa vez vieram influenciados pelo revival de Sex and the City, que se chama “And Just Like That”. Assisti recentemente e me fez lembrar que gosto de um mix de estampas e texturas pra variar com looks minimalistas bem executados. Lembrei também o quanto a série é divertida. Havia assistido as temporadas anteriores em 2011, enquanto morava na Inglaterra pra aprender o idioma e como as aulas eram só de manhã, gastei muito tempo daquele ano devorando todos aqueles longos episódios.</p>
+    <p>Acho que os looks mais coloridos dessa vez vieram influenciados pelo revival de Sex and the City, que se chama \"And Just Like That\". Assisti recentemente e me fez lembrar que gosto de um mix de estampas e texturas pra variar com looks minimalistas bem executados. Lembrei também o quanto a série é divertida. Havia assistido as temporadas anteriores em 2011, enquanto morava na Inglaterra pra aprender o idioma e como as aulas eram só de manhã, gastei muito tempo daquele ano devorando todos aqueles longos episódios.</p>
     <p>Já ouvi por aí que muita gente não gosta de Carrie Bradshaw, mas eu sou fã e me identifico com algumas presepadas. Portanto, e como sempre faço na newsletter, gostaria de colocar aqui uma lista de suas qualidades, incluindo estilo:</p>
     <p>-O jeito que ela usa as mini-bolsas e se apoia nas sacolas de pano (ecobags) pra carregar o que precisa de fato;</p>
     <p>-Como ela sorri e é boa amiga. Simpatia, atenção e disponibilidade pra rede dela;</p>
