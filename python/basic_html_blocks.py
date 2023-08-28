@@ -63,7 +63,7 @@ def generate_head(page_title):
 
     <!-- script
     ================================================== -->
-    <script src="js/modernizr.js"></script>
+    <script src="/js/modernizr.js"></script>
 
     <!-- favicons
     ================================================== -->
@@ -135,14 +135,11 @@ def generate_page_categorias(**kwargs):
 
     category_code_string = """ """
     for category in category_list:
-        if category == "I <3 SP":
-            cat_html = "I_LUV_SP"
-        else:
-            cat_html = category
+        cat_html = get_cat_html(category)
         category_code_string += (
-            f"""<li><a href="{cat_html}.html" title="">{category}</a></li> """
+            f"""<li><a href="/categorias/{cat_html}.html" title="">{category}</a></li> """
         )
-        # print(category_code_string)
+        print(category_code_string)
 
     return f"""
     <section class="s-content">
@@ -205,6 +202,18 @@ def generate_about_content(**kwargs):
     """
 
 
+def get_cat_html(category: str) -> str:
+
+    if category == "I <3 SP":
+        cat_html = "I_LUV_SP"
+    elif category == "#GrifosDigitais":
+        cat_html = "grifos_digitais"
+    else:
+        cat_html = category.replace(" ", "_")
+
+    return cat_html
+
+
 def generate_post_content(**kwargs):
     main_img_path = kwargs.get("main_img_path")
     title = kwargs.get("post_title")
@@ -213,10 +222,7 @@ def generate_post_content(**kwargs):
     category = kwargs.get("category")
     path = kwargs.get("path")
 
-    if category == "I <3 SP":
-        cat_html = "I_LUV_SP"
-    else:
-        cat_html = category
+    cat_html = get_cat_html(category)
 
     return f"""
         <section class="s-content s-content--single">
@@ -353,9 +359,9 @@ def generate_scripts():
     return """
     <!-- Java Script
     ================================================== -->
-    <script src="js/jquery-3.2.1.min.js"></script>
-    <script src="js/plugins.js"></script>
-    <script src="js/main.js"></script>
+    <script src="/js/jquery-3.2.1.min.js"></script>
+    <script src="/js/plugins.js"></script>
+    <script src="/js/main.js"></script>
     """
 
 
