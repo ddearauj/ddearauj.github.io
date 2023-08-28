@@ -433,10 +433,8 @@ def generate_category_feed(main_template: Template, pages_dict: dict):
             scripts=generate_scripts(),
         )
 
-        if cat == "I <3 SP":
-            cat = "I_LUV_SP"
 
-        with open(f"categorias/{cat}.html", "w", encoding="utf-8") as f:
+        with open(f"categorias/{get_cat_html(cat)}.html", "w", encoding="utf-8") as f:
             f.write(final_html)
 
 
