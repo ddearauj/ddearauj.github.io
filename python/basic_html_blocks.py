@@ -243,7 +243,7 @@ def generate_post_content(**kwargs):
 
                         <ul class="s-content__post-meta">
                             <li class="date">{date}</li>
-                            <li class="cat"><a href="{cat_html}.html">{category}</a></li>
+                            <li class="cat"><a href="/categorias/{cat_html}.html">{category}</a></li>
                         </ul>
 
                         {text}
