@@ -90,7 +90,7 @@ def generate_header():
         <div class="row s-header__content">
             <div class="s-header__logo">
                 <a class="logo" href="index.html">
-                    <img src="images/heart-svgrepo-com.svg" alt="Homepage">
+                    <img src="/images/heart-svgrepo-com.svg" alt="Homepage">
                 </a>
             </div>
 
@@ -243,7 +243,7 @@ def generate_post_content(**kwargs):
 
                         <ul class="s-content__post-meta">
                             <li class="date">{date}</li>
-                            <li class="cat"><a href="{cat_html}.html">{category}</a></li>
+                            <li class="cat"><a href="/categorias/{cat_html}.html">{category}</a></li>
                         </ul>
 
                         {text}
@@ -433,10 +433,8 @@ def generate_category_feed(main_template: Template, pages_dict: dict):
             scripts=generate_scripts(),
         )
 
-        if cat == "I <3 SP":
-            cat = "I_LUV_SP"
 
-        with open(f"categorias/{cat}.html", "w", encoding="utf-8") as f:
+        with open(f"categorias/{get_cat_html(cat)}.html", "w", encoding="utf-8") as f:
             f.write(final_html)
 
 
