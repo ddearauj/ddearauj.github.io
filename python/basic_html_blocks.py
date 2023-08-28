@@ -90,7 +90,7 @@ def generate_header():
         <div class="row s-header__content">
             <div class="s-header__logo">
                 <a class="logo" href="index.html">
-                    <img src="images/heart-svgrepo-com.svg" alt="Homepage">
+                    <img src="/images/heart-svgrepo-com.svg" alt="Homepage">
                 </a>
             </div>
 
