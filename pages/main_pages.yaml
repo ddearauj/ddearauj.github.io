@@ -2,7 +2,7 @@ pages:
   about:
     path: about.html
     page_title: Sobre
-    main_img_path: "images/gabi-ilheus.jpeg"
+    main_img_path: "/images/gabi-ilheus.jpeg"
     post_title: "Deve ser aqui"
     post_text: "<p>
       Oi. Sou a Gabi e se você chegou aqui, provavelmente me conhece.
@@ -127,7 +127,7 @@ posts:
 
       
     <div id=\"presentation-highlights\">
-      <img src=\"images/tvdcca.jpeg\">
+      <img src=\"/images/tvdcca.jpeg\">
     </div>
       
       "
@@ -164,7 +164,7 @@ posts:
     <p>\"Ajudar alguém a passar pela dificuldade é o ponto de partida da civilização\", explicou Mead. A civilização é uma ajuda comunitária.\"</p>
 
     <div id=\"presentation-highlights\">
-      <img src=\"images/civ/civ.jpg\">
+      <img src=\"/images/civ/civ.jpg\">
     </div>
     
     "
@@ -184,7 +184,7 @@ posts:
       <iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/playlist/5xqn7Aq1R4ugUd0sGx2oWk?utm_source=generator\" width=\"100%\" height=\"352\" frameBorder=\"0\" allowfullscreen=\"\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>
 
       <div id=\"presentation-highlights\">
-        <img src=\"images/colo_foto.png\">
+        <img src=\"/images/colo_foto.png\">
       </div>
       <br>
       <i>A ilustração na capa é da artista colombiana Isabel Gomez Machado (@isabelgomezmachado), chamada \"Casa\".</i>
@@ -239,7 +239,7 @@ posts:
    <p> e de uma foto que tirei no final de 2019 no Flower Dome de Cingapura:</p>
 
         <div id=\"presentation-highlights\">
-        <img src=\"images/cogu.png\">
+        <img src=\"/images/cogu.png\">
         </div>
 
 
@@ -287,7 +287,7 @@ posts:
     <p>Já dá pra ver que sou fã e que fiquei absurdamente feliz quando ela topou dar uma entrevista para esse site (!!!!). Eu abri o olhão aqui quando vi a mensagem e fui direto contar pro Dani.</p>
 
     <div id=\"presentation-highlights\">
-    <img src=\"images/amelia/amelia1.png\">
+    <img src=\"/images/amelia/amelia1.png\">
     </div>
 
 
@@ -311,7 +311,7 @@ posts:
     </p>
 
     <div id=\"presentation-highlights\">
-    <img src=\"images/amelia/amelia2.png\">
+    <img src=\"/images/amelia/amelia2.png\">
     </div>
 
 
@@ -422,7 +422,7 @@ posts:
     </p>
 
     <div id=\"presentation-highlights\">
-    <img src=\"images/Julho/foto_celular_moreco.jpeg\">
+    <img src=\"/images/Julho/foto_celular_moreco.jpeg\">
     <br>
     <i>O cérebro e a realidade. Foto de Benes</i>
     </div>
@@ -457,7 +457,7 @@ posts:
     <br>
     <i>(O Tenório tem outros livros extremamente especiais, não pare nesse, se puder)</i>
 
-    <div id=\"presentation-highlights\"><img src=\"images/Julho/lud1.png\"></div>
+    <div id=\"presentation-highlights\"><img src=\"/images/Julho/lud1.png\"></div>
     <i>Capa por Alceu Chiesorin Nunes</i>
     <p></p>
 
@@ -471,7 +471,7 @@ posts:
     
     <p>Se você já fez ou faz análise vai reconhecer a sensação: aquele desconforto de atingir um ponto de inflexão perto do fim da sessão e sair com aquele nó para ir desatando bem aos pouquinhos. Um incômodo que fica e por vezes é esquecido nas amenidades do dia a dia. Neste livro, porém, ele fica e ganha novas camadas a cada trecho. <strong>\"Eva\" é uma dor crônica com pontos de agudez muito bem escrita.</strong></p>
 
-    <div id=\"presentation-highlights\"><img src=\"images/Julho/lud2.png\"></div>
+    <div id=\"presentation-highlights\"><img src=\"/images/Julho/lud2.png\"></div>
     <i>Capa: Cristina Gu | Flávia Bomfim</i>
     <p></p>
 
@@ -495,7 +495,7 @@ posts:
     
     <p>Com o perdão da reprodução da minha resenha de Facebook neste último encerro aqui minhas recomendações. Conta pra gente se ler algum?</p>
 
-    <div id=\"presentation-highlights\"><img src=\"images/Julho/lud3.png\"></div>
+    <div id=\"presentation-highlights\"><img src=\"/images/Julho/lud3.png\"></div>
     <i>Chimamanda além de tudo é estilosa demais.</i>
     
     "
@@ -523,7 +523,7 @@ posts:
     Alguns registros desse mês:
     </p>
 
-    <div id=\"presentation-highlights\"><img src=\"images/retratos_junho.jpeg\"></div>
+    <div id=\"presentation-highlights\"><img src=\"/images/retratos_junho.jpeg\"></div>
 
     <p>
     Foto 1: Amsterdam às 22h, ainda claro: jantar com vinho frisante e pés descalços <br>
@@ -539,7 +539,7 @@ posts:
 
     <p>Uma dica de <strong>filme que amei muito</strong> é \"Minha vida de abobrinha\" (MA VIE DE COURGETTE) <3 A animação stop motion francesa é sensível e adorável. Estou apaixonada!!! Está no MUBI.</p>
 
-    <div id=\"presentation-highlights\"><img src=\"images/abobrinha.jpg\"></div>
+    <div id=\"presentation-highlights\"><img src=\"/images/abobrinha.jpg\"></div>
 
     <p> 
     * <i>Comentários do programador:</i> Quero deixar claro que eu que insisti para Benes assistir a obra prima e ela demorou demais para engatar. E, por mais que ela não admita, ela também ama Ted Lasso. <3
@@ -566,7 +566,7 @@ posts:
     <p>Obrigada Dudu, por esse presente.</p>
     <br>
 
-    <div id=\"presentation-highlights\"><img src=\"images/dudu.jpeg\"></div>
+    <div id=\"presentation-highlights\"><img src=\"/images/dudu.jpeg\"></div>
 
     <p><h4>Que não fique o chão nem fique a sombra</h4></p>
 
@@ -678,20 +678,20 @@ posts:
       <strong>1 - ICHIRAN Ramen</strong>
       <br>
       <p>Melhor tonkotsu ramen -aliás melhor ramen- do universo. Existem várias unidades espalhadas por Tóquio e a fila anda mais rápido do que você imagina: vale a pena esperar! Você consegue customizar a quantidade de alho, cebolinha, pimenta e escolher o quão espesso quer seu caldo (existe formulário em inglês também, fiquem tranquilos). Fun fact: você pode, e recomendo comer em cabines como a da foto abaixo, pra ter uma experiência intensa, só você e seu ramen, sem ninguém pra atrapalhar. </p>
-      <div id=\"presentation-highlights\"><img src=\"images/japao23/ichiran.jpeg\" sizes=\"(max-width: 210px) 10vw, 210px\"></div>
+      <div id=\"presentation-highlights\"><img src=\"/images/japao23/ichiran.jpeg\" sizes=\"(max-width: 210px) 10vw, 210px\"></div>
       <br>
 
       <strong>2 - Nihonkai Meguro</strong>
       <br>
       <p>Meguro é o meu bairro querido, onde ficava a minha casinha. Nihonkai é uma rede de restaurantes de sushi espalhados por Tóquio sendo que a qualidade varia de acordo com cada unidade. A de Meguro, fica em frente ao prédio onde morava, e tem qualidade garantida por **moi**, frequentadora assídua. Os peixes e frutos do mar são bastante frescos e variados, o ambiente descontraído, e um excelente custo-benefício principalmente para o lunch set durante os dias de semana, quando você come muito bem por uma valor em torno de 1,500-2,000 yen por pessoa. </p>
       <p>Nota: recomendo muito o ikurá deles (sushi de ovas de salmão como o da foto abaixo). Aqui no Brasil, é muito difícil de achar -desse tamanho, com esse frescor nunca vi-  e se você acha, provavelmente deve custar o olho da cara. Nihonkai eu te amo!!!</p>
-      <div id=\"presentation-highlights\"><img src=\"images/japao23/meguro.jpeg\" sizes=\"(max-width: 210px) 10vw, 210px\" class=\"align-center\"></div>
+      <div id=\"presentation-highlights\"><img src=\"/images/japao23/meguro.jpeg\" sizes=\"(max-width: 210px) 10vw, 210px\" class=\"align-center\"></div>
       <br>
 
       <strong>3 -	TRUFFLE Bakeryo</strong>
       <br>
       <p>Pra um café da manhã ou snack, recomendo a padaria com a temática de trufa que possui algumas unidades espalhadas por Tóquio. Sei que existe uma em Hiroo e também uma na estação JR de Shimbashi (a da embalagem da foto). Nessa padaria existem os folhados comuns tipo croissant, pain au chocolat, muffins, etc. que NÃO são trufados. Os itens com trufas negras e azeite trufado estão normalmente perto do caixa e eu, particularmente, recomendo muito esse pãozinho aqui da foto abaixo: olhando você pode não dar nada, mas uma vez que põe na boca o bendito entrega TUDO. Perfeito! (tão bom que é limitado, máximo de 6 unidades por cliente)</p>
-      <div id=\"presentation-highlights\"><img src=\"images/japao23/truffle.jpeg\" sizes=\"(max-width: 210px) 10vw, 210px\" class=\"align-center\"></div>
+      <div id=\"presentation-highlights\"><img src=\"/images/japao23/truffle.jpeg\" sizes=\"(max-width: 210px) 10vw, 210px\" class=\"align-center\"></div>
       <br>
 
       <strong>BONUS:</strong>
@@ -727,7 +727,7 @@ posts:
   
 
 
-    <p><img src=\"images/camila/lisa_sorgini.jpg\" sizes=\"(max-width: 210px) 10vw, 210px\">
+    <p><img src=\"/images/camila/lisa_sorgini.jpg\" sizes=\"(max-width: 210px) 10vw, 210px\">
     
     <i>A foto é de <a href=\"https://lisasorgini.com/\"><strong>Lisa Sorgini</strong></a>, fotógrafa australiana que retrata as experiências do cuidado e das relações maternas, buscando investigar percepções e construções sociais em torno do conceito de família e principalmente do papel de mãe.</i></p>
     <p>--------------------------------------------</p>
@@ -785,12 +785,12 @@ posts:
     post_text: " 
     Fotos de Quioto e Nara numa paleta terrosa e seca. Tiradas com Fujifilm X100F.
 
-    <img src=\"images/japao23/jp1.jpg\" sizes=\"(max-width: 210px) 10vw, 210px\">
-    <img src=\"images/japao23/jp4.jpg\" sizes=\"(max-width: 210px) 10vw, 210px\">
-    <img src=\"images/japao23/jp3.jpg\" sizes=\"(max-width: 210px) 10vw, 210px\">
-    <img src=\"images/japao23/jp6.jpg\" sizes=\"(max-width: 210px) 10vw, 210px\">
-    <img src=\"images/japao23/jp2.jpg\" sizes=\"(max-width: 210px) 10vw, 210px\">
-    <img src=\"images/japao23/jp5.jpg\" sizes=\"(max-width: 210px) 10vw, 210px\">
+    <img src=\"/images/japao23/jp1.jpg\" sizes=\"(max-width: 210px) 10vw, 210px\">
+    <img src=\"/images/japao23/jp4.jpg\" sizes=\"(max-width: 210px) 10vw, 210px\">
+    <img src=\"/images/japao23/jp3.jpg\" sizes=\"(max-width: 210px) 10vw, 210px\">
+    <img src=\"/images/japao23/jp6.jpg\" sizes=\"(max-width: 210px) 10vw, 210px\">
+    <img src=\"/images/japao23/jp2.jpg\" sizes=\"(max-width: 210px) 10vw, 210px\">
+    <img src=\"/images/japao23/jp5.jpg\" sizes=\"(max-width: 210px) 10vw, 210px\">
 
     "
 
@@ -808,20 +808,20 @@ posts:
     <p>Assisti esse filme no vôo de volta de Tóquio e confesso que a cada dia fico mais entusiasta e fãzona do cinema japonês. O filme aborda tantas questões importantes e o faz de forma brilhante e sensível. O conceito de família, nosso sistema de produção que marginaliza pessoas, leis e normas que não se aplicam diante de contextos muito individuais e difíceis de serem rotulados. Diante de personagens tão tortos e tão adoráveis nos pegamos pensando: \"A condição de irregularidade é frequentemente fruto de injustiças?\"
     <br> Joga luz na falta de humanismo em nossas relações, hoje muitas vezes transacionais, trazendo um olhar mais simples porém mais dedicado ao outro, com mais acolhimento genuíno, prontidão e ternura. Discorre sobre as versões das histórias que nunca serão contadas, ou se contadas não serão acreditadas. Tipo de obra que deixa claro o papel da arte no mundo, num nível que costumo classificar como \"Gabriel Garcia Márquez ou Jorge Amado de arte\". Um primor!
     <br>
-    <img src=\"images/cinema/shop.png\" sizes=\"(max-width: 210px) 10vw, 210px\">
+    <img src=\"/images/cinema/shop.png\" sizes=\"(max-width: 210px) 10vw, 210px\">
     <br>Onde ver: Amazon Prime e Google Play</p>
     <br>
 
 
     <p><strong>Paris Distrito 13</strong>(2021)</p>
     <p>O filme, bem contemporâneo, é um claro retrato de nossa geração e da influência da internet em nossas vidas. Conta a história e dilemas de jovens adultos que vivem no subúrbio de Paris. Primordialmente sobre amor, novas experiências e diferentes formas de relacionamento, os personagens que se cruzam compartilham a angústia de não ter respostas e decisões definitivas. O filme mostra que a vida adulta é difícil e ainda assim pode ser melhor do que imaginamos. Plus: toda a vibe de um filme preto e branco!
-    <img src=\"images/cinema/paris.png\" sizes=\"(max-width: 210px) 10vw, 210px\">
+    <img src=\"/images/cinema/paris.png\" sizes=\"(max-width: 210px) 10vw, 210px\">
     <br>Onde ver: MUBI e Amazon Prime</p>
     <br>
 
     <p><strong>Bergman Island</strong> (2021)</p>
     <p>Pra quem entende de cinema sueco (talvez o Dudu? Hahah) o filme deve ter ainda mais significado do que o que eu consegui acessar. De maneira geral, as paisagens e fotografia são muito boas, o jeito nórdico de viver a vida também mostra outro ritmo do qual estamos acostumados. A trama em si sobre artistas em seus processos criativos e em suas relações pessoais, não é super espetacular mas interessante de acompanhar. Assim que acaba, o filme parece até sem graça, com uma narrativa calma e um pouquinho confusa, mas por mais contraditório que pareça -e é aí que vem a parte boa- você ficará pensando nele por dias. Vontade de assistir de novo.<br>
-    <img src=\"images/cinema/berg.png\" sizes=\"(max-width: 210px) 10vw, 210px\">
+    <img src=\"/images/cinema/berg.png\" sizes=\"(max-width: 210px) 10vw, 210px\">
     <br>Onde ver: MUBI</p>
     <br>
 
@@ -844,7 +844,7 @@ posts:
     <p>A cidade sul por sua vez é o caos em definição. O trânsito, a bicicleta, o morador de rua com 10 cachorros, para não falar dos engravatados e das madames de salto alto nas calçadas irregulares, os vendedores: carregador de celular, ohhh a pipoca, brahma latão, cuidado menino, não mexe no celular na rua, vão te assaltar. Se for o rio de janeiro então temos alguns adicionais, o bueiro que explode, o cheiro de mijo quase que constante em vários lugares, os motoristas de ônibus que nunca param (o 456 então é uma lenda), as constantes enchentes, onde a cidade vira um rio de uma hora para outra, tudo isso temperado há mais de 40 graus. </p>
     <p>Não é que não exista nenhuma ordem, o caos não é isso. Tem regras, tem organização, mas diferente da cidade norte. Na cidade sul sobra espaço para inovação, para o espontâneo e isso se aplica a diferentes campos: da política, do lazer, da economia, da vida. Todos eles sobrepostos, não é possível isolá-los. Esses lugares são para novas ocupações do espaço público, para vender, para protestar, interagir com as pessoas, para se relacionar. É uma pulsão de vida constante. Tudo está vivo. O movimento é constante. Isso para mim é fluir. Claro que isso tem a ver com as tensões sociais, as desigualdades e o sistema capitalista (que tornam as coisas muito mais competitivas - é preciso matar ou morrer todos os dias). Não é uma romantização da pobreza, mas talvez mostrar que quanto mais longe dos padrões que nos são vendidos como modelos de \"civilização\", mais perto estaremos de nós mesmos. Perto de nós mesmos, para mim significa entender nossas próprias necessidade e desejos, sem seguir as de narrativas da moda. Como diria Cazuza, nadando contra a corrente, só para exercitar todo o músculo que sente. E isso tem a ver com felicidade. </p>
     <p>O caos da cidade passa pelo meu corpo e toma conta. As coisas não são tão quadradas nem definidas. Tem espaço para tudo. Isso - pelo menos para mim que tenho meu lado sangue quente - me equilibra. Eu não preciso me esforçar para criar um movimento, para sentir, para viver, porque já está tudo ali. Dado. É só botar o pezinho na rua que a magica acontece (as vezes alguém te leva o celular também). Não é preciso se anestesiar para sentir novas sensações, pelo contrario, é só mergulhar. A ideia é ser parte. E é tudo tão bonito, desde a gota de suor que escorre, as pessoas na fila do churros, o mototáxi sem capacete e a lua então. Para mim, essa é a grande beleza. Mas enquanto isso não acontece, que nos resta é só um gemido, um grito, um desabafo.</p>
-    <img src=\"images/cronicas/caos_urb_fundo_branco.jpg\" sizes=\"(max-width: 210px) 10vw, 210px\">
+    <img src=\"/images/cronicas/caos_urb_fundo_branco.jpg\" sizes=\"(max-width: 210px) 10vw, 210px\">
     
     "
 
@@ -861,7 +861,7 @@ posts:
     (muito chique, nem conhecia kkkk). O nome é \"bolinho de couscous??\" ela disse, pensativa. 
     </p>
     
-    <img src=\"images/posts_abril/sabrina_czcz.JPG\" sizes=\"(max-width: 210px) 10vw, 210px\">
+    <img src=\"/images/posts_abril/sabrina_czcz.JPG\" sizes=\"(max-width: 210px) 10vw, 210px\">
     <p><i>Foto: A criadora e a criatura. Sabrina mora em Dubai há 7 anos e na minha cabeça ela já conheceu o mundo todo</i></p>
 
     
@@ -883,7 +883,7 @@ posts:
     </p>
 
 
-    <img src=\"images/posts_abril/czcz2.JPG\" sizes=\"(max-width: 210px) 10vw, 210px\">
+    <img src=\"/images/posts_abril/czcz2.JPG\" sizes=\"(max-width: 210px) 10vw, 210px\">
     <p><i>Foto: Processo de preparo fotografado por Sabrina</i></p>
 
 
@@ -910,11 +910,11 @@ posts:
     <p>Fomos para o MECA, festival de música brasileira dentro do museu. A ideia do evento é ótima e a execução também. Inhotim é definitivamente uma jóia no interior mineiro e com MECA fica ainda mais completo: É possível visitar as obras e galerias durante o dia, curtir shows a tardezinha e a noite, ver pessoas criativas e inspiradoras. </p>
     <p>Pra quem tem interesse, o MECA Inhotim desse ano já está com ingressos à venda e acontecerá no fim de semana de 4-6 de agosto :) Abaixo algumas dicas que talvez possam te ajudar a se preparar melhor.</p>
 
-    <img src=\"images/posts_abril/inhota2.JPG\" sizes=\"(max-width: 210px) 10vw, 210px\">
+    <img src=\"/images/posts_abril/inhota2.JPG\" sizes=\"(max-width: 210px) 10vw, 210px\">
 
-    <img src=\"images/posts_abril/inhota1.JPG\" sizes=\"(max-width: 210px) 10vw, 210px\">
+    <img src=\"/images/posts_abril/inhota1.JPG\" sizes=\"(max-width: 210px) 10vw, 210px\">
 
-    <img src=\"images/posts_abril/inhota3.JPG\" sizes=\"(max-width: 210px) 10vw, 210px\">
+    <img src=\"/images/posts_abril/inhota3.JPG\" sizes=\"(max-width: 210px) 10vw, 210px\">
     <p><i>Foto: Dani na entrada de Inhotim</i></p>
 
     <p><strong>Recomendações gerais:</strong></p>
@@ -942,7 +942,7 @@ posts:
     Passados os 3 meses, venho dizer que a meta foi cumprida (e já espero uma promoção por isso hehe). 
     Mas a recompensa, que era uma escapada pro mato ou mar, será mais difícil de planejar no curto prazo.
 
-    <img src=\"images/posts_abril/looks_abril.jpg\" sizes=\"(max-width: 210px) 10vw, 210px\">
+    <img src=\"/images/posts_abril/looks_abril.jpg\" sizes=\"(max-width: 210px) 10vw, 210px\">
 
 
     <p>Acho que os looks mais coloridos dessa vez vieram influenciados pelo revival de Sex and the City, que se chama \"And Just Like That\". Assisti recentemente e me fez lembrar que gosto de um mix de estampas e texturas pra variar com looks minimalistas bem executados. Lembrei também o quanto a série é divertida. Havia assistido as temporadas anteriores em 2011, enquanto morava na Inglaterra pra aprender o idioma e como as aulas eram só de manhã, gastei muito tempo daquele ano devorando todos aqueles longos episódios.</p>
@@ -979,7 +979,7 @@ posts:
     width=\"100%\" height=\"3080\" frameBorder=\"0\" allowfullscreen=\"\" allow=\"autoplay; 
     clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>
 
-    <img src=\"images/playlist_verao23/foto_praia.png\" sizes=\"(max-width: 210px) 10vw, 210px\">
+    <img src=\"/images/playlist_verao23/foto_praia.png\" sizes=\"(max-width: 210px) 10vw, 210px\">
     <p><i>Foto: Eu & Dani na última viagem com piscina</i></p>
     "
 
@@ -997,7 +997,7 @@ posts:
     </p>
 
 
-    <img src=\"images/camila/cami.jpeg\" sizes=\"(max-width: 210px) 10vw, 210px\">
+    <img src=\"/images/camila/cami.jpeg\" sizes=\"(max-width: 210px) 10vw, 210px\">
     <p>
     <i>Foto: ilustração linda da Cá, feita pela irmã dela (Jenni)</i>
     </p>
@@ -1044,7 +1044,7 @@ posts:
     <p>Chamei o Dani pra contar um pouco sobre esse que é um de seus lugares preferidos em São Paulo.</p>
     
     <p>
-    <img src=\"images/seikaebin_donchan.jpeg\" sizes=\"(max-width: 210px) 10vw, 210px\">
+    <img src=\"/images/seikaebin_donchan.jpeg\" sizes=\"(max-width: 210px) 10vw, 210px\">
     Foto: Seika e Bin cantando no Donchan :)
 
     <p><strong>Deve ser aqui:</strong> Dani, conta pra gente como conheceu o Donchan e do que mais gosta de lá. <br>
@@ -1078,7 +1078,7 @@ posts:
   jeff_peru: 
     path: jeff_peru.html
     page_title: Jeff no Peru
-    main_img_path: images/donchan/donchan.jpg
+    main_img_path: /images/donchan/donchan.jpg
     post_title: Looks do Jeff no Peru
     post_text: "
     
@@ -1115,7 +1115,7 @@ posts:
     C)	Manga longa da Birden que te protege do vento, mosquitos e do Deus Sol que castiga Machu Picchu.
 
     <p>
-    <img src=\"images/looksjeff.jpeg\" sizes=\"(max-width: 2100px) 100vw, 2100px\">
+    <img src=\"/images/looksjeff.jpeg\" sizes=\"(max-width: 2100px) 100vw, 2100px\">
     </p>
     
     </p>
