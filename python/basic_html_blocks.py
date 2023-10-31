@@ -239,7 +239,7 @@ def generate_post_content(**kwargs):
 
                     <div class="s-content__primary">
 
-                        <h2 class="s-content__title s-content__title--post"><a href="posts/{path}">{title}</a></h2>
+                        <h2 class="s-content__title s-content__title--post"><a href="/posts/{path}">{title}</a></h2>
 
                         <ul class="s-content__post-meta">
                             <li class="date">{date}</li>
