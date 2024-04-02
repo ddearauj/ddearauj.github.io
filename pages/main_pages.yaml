@@ -26,6 +26,126 @@ pages:
 
 posts:
 
+  islandia:
+    path: islandia.html
+    page_title: "Nove dias na Islândia"
+    post_title: "Nove dias na Islândia"
+    category: "Fotografia"
+    date: "2 Abril de 2024"
+    post_text: "
+
+    <p>Poderia ter feito fotos melhores se minhas mãos não estivessem congelando. 
+    Tiradas com X100F, pra não esquecer essas paisagens de tirar o fôlego.</p>
+
+
+        <div id=\"presentation-highlights\">
+          <img src=\"/images/fotosislndia/18.JPG\">
+          <span><i></i></span>
+        </div>
+
+        <div id=\"presentation-highlights\">
+          <img src=\"/images/fotosislndia/10.JPG\">
+          <span><i></i></span>
+        </div>
+
+        <div id=\"presentation-highlights\">
+          <img src=\"/images/fotosislndia/2.JPG\">
+          <span><i></i></span>
+        </div>
+
+        <div id=\"presentation-highlights\">
+          <img src=\"/images/fotosislndia/22.JPG\">
+          <span><i></i></span>
+        </div>
+
+        <div id=\"presentation-highlights\">
+          <img src=\"/images/fotosislndia/16.JPG\">
+          <span><i></i></span>
+        </div>
+
+        <div id=\"presentation-highlights\">
+          <img src=\"/images/fotosislndia/17.JPG\">
+          <span><i></i></span>
+        </div>
+
+        <div id=\"presentation-highlights\">
+          <img src=\"/images/fotosislndia/20.JPG\">
+          <span><i></i></span>
+        </div>
+
+        <div id=\"presentation-highlights\">
+          <img src=\"/images/fotosislndia/13.JPG\">
+          <span><i></i></span>
+        </div>
+
+        <div id=\"presentation-highlights\">
+          <img src=\"/images/fotosislndia/19.JPG\">
+          <span><i></i></span>
+        </div>
+
+        <div id=\"presentation-highlights\">
+          <img src=\"/images/fotosislndia/15.JPG\">
+          <span><i></i></span>
+        </div>
+
+        <div id=\"presentation-highlights\">
+          <img src=\"/images/fotosislndia/18.JPG\">
+          <span><i></i></span>
+        </div>
+
+        <div id=\"presentation-highlights\">
+          <img src=\"/images/fotosislndia/8.JPG\">
+          <span><i></i></span>
+        </div>
+
+        <div id=\"presentation-highlights\">
+          <img src=\"/images/fotosislndia/1.JPG\">
+          <span><i></i></span>
+        </div>
+
+        <div id=\"presentation-highlights\">
+          <img src=\"/images/fotosislndia/6.JPG\">
+          <span><i></i></span>
+        </div>
+
+        <div id=\"presentation-highlights\">
+          <img src=\"/images/fotosislndia/14.JPG\">
+          <span><i></i></span>
+        </div>
+
+        <div id=\"presentation-highlights\">
+          <img src=\"/images/fotosislndia/11.JPG\">
+          <span><i></i></span>
+        </div>
+
+        <div id=\"presentation-highlights\">
+          <img src=\"/images/fotosislndia/3.JPG\">
+          <span><i></i></span>
+        </div>
+
+        <div id=\"presentation-highlights\">
+          <img src=\"/images/fotosislndia/4.JPG\">
+          <span><i></i></span>
+        </div>
+
+        <div id=\"presentation-highlights\">
+          <img src=\"/images/fotosislndia/9.JPG\">
+          <span><i></i></span>
+        </div>
+
+        <div id=\"presentation-highlights\">
+          <img src=\"/images/fotosislndia/5.JPG\">
+          <span><i></i></span>
+        </div>
+
+        <div id=\"presentation-highlights\">
+          <img src=\"/images/fotosislndia/12.JPG\">
+          <span><i></i></span>
+        </div>
+
+    "
+
+
   as_meninas:
     path: as_meninas.html
     page_title: "No toca-discos de Lorena"
