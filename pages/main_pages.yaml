@@ -25,7 +25,7 @@ pages:
     post_title: "Categorias"  
 
 posts:
-  islandia:
+  cartas_bento:
     path: cartas_para_bento_julia_lyra.html
     page_title: "cartas para Bento, por Júlia Lyra"
     post_title: "cartas para Bento, por Júlia Lyra"
