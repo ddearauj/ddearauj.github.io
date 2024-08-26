@@ -33,7 +33,7 @@ posts:
     category: "cartas de amor"
     date: "26 de Agosto de 2024"
     post_text: "
-    <p>Texto por<a href=\"https://www.instagram.com/rochalud/\">Lud</a></p>
+    <p>Texto por <a href=\"https://www.instagram.com/rochalud/\">Lud</a></p>
     
     <p>20 de julho de 2024</p>
 
@@ -93,37 +93,37 @@ posts:
     </p>  
 
     <div id=\"presentation-highlights\">
-      <img src=\"/images/cartas_amor/berco_mudanca.jpeg\">
+      <img src=\"/images/cartas_amor/berco_mudanca.jpeg\" style=\"margin-bottom: 0px;\">
       <span><i>A mudança e o berço</i></span>
     </div>
     <br>
     <div id=\"presentation-highlights\">
-      <img src=\"/images/cartas_amor/varanda_fito.jpeg\">
+      <img src=\"/images/cartas_amor/varanda_fito.jpeg\" style=\"margin-bottom: 0px;\">
       <span><i>A varanda do Fitó</i></span>
     </div>
     <br>
     <div id=\"presentation-highlights\">
-      <img src=\"/images/cartas_amor/mao_dada_lud.jpeg\">
+      <img src=\"/images/cartas_amor/mao_dada_lud.jpeg\" style=\"margin-bottom: 0px;\">
       <span><i>De mãos dadas, Lud e eu.</i></span>
     </div>
     <br>
     <div id=\"presentation-highlights\">
-      <img src=\"/images/cartas_amor/foto_sem_legenda.jpeg\">
+      <img src=\"/images/cartas_amor/foto_sem_legenda.jpeg\" style=\"margin-bottom: 0px;\">
       <span><i></i></span>
     </div>
     <br>
     <div id=\"presentation-highlights\">
-      <img src=\"/images/cartas_amor/pastel_votos.jpeg\">
+      <img src=\"/images/cartas_amor/pastel_votos.jpeg\" style=\"margin-bottom: 0px;\">
       <span><i>Pastelzinho na mão, ouvindo cartas de amor</i></span>
     </div>
     <br>
     <div id=\"presentation-highlights\">
-      <img src=\"/images/cartas_amor/abracos_votos.jpeg\">
+      <img src=\"/images/cartas_amor/abracos_votos.jpeg\" style=\"margin-bottom: 0px;\">
       <span><i>O sorriso do Dudu</i></span>
     </div>
     <br>
     <div id=\"presentation-highlights\">
-      <img src=\"/images/cartas_amor/mais_abracos_fotos.jpeg\">
+      <img src=\"/images/cartas_amor/mais_abracos_fotos.jpeg\" style=\"margin-bottom: 0px;\">
       <span><i>Abraços, abraços</i></span>
     </div>
     <br>
