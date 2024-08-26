@@ -25,6 +25,81 @@ pages:
     post_title: "Categorias"  
 
 posts:
+
+  cartas_amor_casamento:
+    path: cartas_amor_casamento_introdução.html
+    page_title: "Cartas de amor, introdução"
+    post_title: "Cartas de amor, introdução"
+    category: "cartas de amor"
+    date: "25 de Agosto de 2024"
+    post_text: "
+    <p>
+      Tudo uma correria ultimamente. Mudança de país, casa nova, casamento,
+      quartinho do bebê, mala de maternidade, consultas pré-natal, tâmaras e abacaxi,
+      ler Winnicott, trabalho CLT, um terror chamado enxoval (ter que comprar roupas
+      do zero para um ser humano é sacanagem, além de todo um universo de aparatos.
+      É coisa demais). Muito pra pensar e decidir.
+    </p>
+    <p>
+      No meio de toda essa avalanche gostaria de deixar registrado aqui algo que
+      aconteceu mês passado. Dani e eu celebramos o nosso casamento no dia 20 de
+      julho em um evento pequeno, simples, e cercados de amigos queridos e família,
+      com música ao vivo e comida brasileira. Nada de cerimônia formal. Ao invés disso
+      convidamos algumas pessoas que nos acompanham de perto para falar
+      brevemente sobre nós, sobre amor, sobre o que une e mantem as pessoas. <i>Cartas
+      de amor.</i>
+    </p>
+    <p>
+    Foram três discursos belíssimos (e uma surpresa). Lud falou sobre o papel do
+    acaso e o protagonismo da escolha em uma relação, Dudu discorreu sobre as
+    necessidades de um relacionamento e o que fica com a passagem do tempo, o pai
+    do Dani (que também se chama Daniel) sobre o amor sob a ótica de sua religião.
+    Abaixo, algumas fotos do talentosíssimo Ayá <a href=\"https://www.instagram.com/memoriaparameupovo/\">@memoriaparameupovo</a>
+    que fez os registros documentais desse dia especial.
+    </p>  
+
+    <div id=\"presentation-highlights\">
+      <img src=\"/images/cartas_amor/berco_mudanca.jpeg\">
+      <span><i>A mudança e o berço</i></span>
+    </div>
+
+    <div id=\"presentation-highlights\">
+      <img src=\"/images/cartas_amor/varanda_fito.jpeg\">
+      <span><i>A varanda do Fitó</i></span>
+    </div>
+
+    <div id=\"presentation-highlights\">
+      <img src=\"/images/cartas_amor/mao_dada_lud.jpeg\">
+      <span><i>De mãos dadas, Lud e eu.</i></span>
+    </div>
+
+    <div id=\"presentation-highlights\">
+      <img src=\"/images/cartas_amor/foto_sem_legenda.jpeg\">
+      <span><i></i></span>
+    </div>
+
+    <div id=\"presentation-highlights\">
+      <img src=\"/images/cartas_amor/paster_votos.jpeg\">
+      <span><i>Pastelzinho na mão, ouvindo cartas de amor</i></span>
+    </div>
+
+    <div id=\"presentation-highlights\">
+      <img src=\"/images/cartas_amor/abracos_votos.jpeg\">
+      <span><i>O sorriso do Dudu</i></span>
+    </div>
+
+    <div id=\"presentation-highlights\">
+      <img src=\"/images/cartas_amor/mais_abracos_fotos.jpeg\">
+      <span><i>Abraços, abraços</i></span>
+    </div>
+
+    <p>
+    Pra não ficar muito longo, e liberar aos pouquinhos, a história continua nos
+    próximos posts. Stay tuned :)
+    </p>
+
+    "
+
   cadeiras_dinamarca:
     path: cadeiras_dinamarquesas.html
     page_title: "Cadeiras dinamarquesas"
