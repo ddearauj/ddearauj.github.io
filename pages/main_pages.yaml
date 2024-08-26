@@ -26,8 +26,42 @@ pages:
 
 posts:
 
+  cartas_amor_lud:
+    path: cartas_amor_casamento_part 1.html
+    page_title: "Cartas de amor, parte 1 - por Lud"
+    post_title: "Cartas de amor, parte 1 - por Lud"
+    category: "cartas de amor"
+    date: "26 de Agosto de 2024"
+    post_text: "
+    <p>Texto por<a href=\"https://www.instagram.com/rochalud/\">Lud</a></p>
+    
+    <p>20 de julho de 2024</p>
+
+    <p>
+    Os noivos, Gabi e Dani, nos deram a missão de discursar nesta celebração. Para mim, uma jornalista, imagina-se que seria algo simples, não fosse a dificuldade de dividir as palavras com um mestre, literalmente, das letras e o tema do texto: o amor, objeto de tantos escritos e ainda mais este, que transformou a vida de uma grande amiga.
+    </p>
+    Aviso de antemão que não ousarei defini-lo, mas me proponho a compartilhar uma de suas contradições que faz com que esse sentimento seja o que é e tenha nos trazido aqui hoje. <i>O primeiro componente desse dueto é o acaso: um evento imprevisível, incerto. Em seu inerente mistério colocou nossos queridos noivos frente a frente em meio a tantos rostos.</i> \"Amor é sorte\" cantou Rita Lee, e não sou eu quem vai discordar.
+    <p>
+    <i>Mas seu oponente complementar é, para mim, o que faz do amor o que ele é: a escolha.</i> Esta que ambos têm tomado dia após dia, em meio às unidades de suas próprias vidas, fazendo com que retornarem sempre um ao outro.
+    </p>
+    Sem o acaso, essa aleatoriedade que nos coloca inadvertidamente em tantas vidas, como explicar esse encontro? Mas somente a escolha — sem o enigma que nos leva a cogitá-la — não seria apenas um acordo?
+    <p>
+    Em seu livro \"A máquina de fazer espanhóis\", Valter Hugo Mãe —autor que me foi apresentado pela noiva — diz, por meio de seu personagem principal, que sua amada era com quem “compartilhava sua vida, crescendo como indivíduo” e em quem encontrava “a definição de todas as incompletudes de seu ser e as colmatava”.
+    </p>
+    Não tenho a intenção de pressioná-los ao ler essa passagem com a responsabilidade de dar conta de todas as faltas que reconhecerem em si próprios ou um no outro. Pessoalmente, nem acho que isso seja possível. Mas comemoramos nesta noite o desejo materializado em ação de serem agora ainda mais companhia, compreensão e afeto mútuos ao encontrá-las.
+
+    <p>
+    Casar-se representa, sim, um compromisso formal de união. Mas é também <i>o registro de uma pequena sequência de milagres: o do encontro seguido do reconhecimento dessa parceria e a fé de que ela poderá ser transformada quantas vezes forem necessárias ao longo dessa história</i>, que é — com o prazer que tenho de testemunhá-la — de amor.
+    </p>
+
+    <div id=\"presentation-highlights\">
+      <img src=\"/images/cartas_amor/moreco_benes_700.jpg\">
+    </div>
+
+    "
+
   cartas_amor_casamento:
-    path: cartas_amor_casamento_introdução.html
+    path: cartas_amor_casamento_introducao.html
     page_title: "Cartas de amor, introdução"
     post_title: "Cartas de amor, introdução"
     category: "cartas de amor"
@@ -62,37 +96,37 @@ posts:
       <img src=\"/images/cartas_amor/berco_mudanca.jpeg\">
       <span><i>A mudança e o berço</i></span>
     </div>
-
+    <br>
     <div id=\"presentation-highlights\">
       <img src=\"/images/cartas_amor/varanda_fito.jpeg\">
       <span><i>A varanda do Fitó</i></span>
     </div>
-
+    <br>
     <div id=\"presentation-highlights\">
       <img src=\"/images/cartas_amor/mao_dada_lud.jpeg\">
       <span><i>De mãos dadas, Lud e eu.</i></span>
     </div>
-
+    <br>
     <div id=\"presentation-highlights\">
       <img src=\"/images/cartas_amor/foto_sem_legenda.jpeg\">
       <span><i></i></span>
     </div>
-
+    <br>
     <div id=\"presentation-highlights\">
       <img src=\"/images/cartas_amor/pastel_votos.jpeg\">
       <span><i>Pastelzinho na mão, ouvindo cartas de amor</i></span>
     </div>
-
+    <br>
     <div id=\"presentation-highlights\">
       <img src=\"/images/cartas_amor/abracos_votos.jpeg\">
       <span><i>O sorriso do Dudu</i></span>
     </div>
-
+    <br>
     <div id=\"presentation-highlights\">
       <img src=\"/images/cartas_amor/mais_abracos_fotos.jpeg\">
       <span><i>Abraços, abraços</i></span>
     </div>
-
+    <br>
     <p>
     Pra não ficar muito longo, e liberar aos pouquinhos, a história continua nos
     próximos posts. Stay tuned :)
