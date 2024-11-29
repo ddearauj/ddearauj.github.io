@@ -26,6 +26,39 @@ pages:
 
 posts:
 
+  haloween_tky:
+    path: halloween_tky.html
+    page_title: "Halloween em Tóquio"
+    post_title: Halloween em Tóquio"
+    category: "Fotografia"
+    date: "17 de Novembro de 2024"
+    post_text: "
+      <p>
+      Minhas amigas são as pessoas mais legais da Ásia e eu posso provar!!<br>
+      Fanny e Elle fizeram essa produção de arte para o Halloween desse ano, e o resultado ficou ótimo:
+      </p>
+
+    <div id=\"presentation-highlights\">
+      <img src=\"/images/halloween/image(1).png\">
+    </div>
+
+    <div id=\"presentation-highlights\">
+      <img src=\"/images/halloween/image(2).png\">
+    </div>
+
+    <div id=\"presentation-highlights\">
+      <img src=\"/images/halloween/image(3).png\">
+    </div>
+
+    <div id=\"presentation-highlights\">
+      <img src=\"/images/halloween/image(4).png\">
+    </div>
+
+      <p>
+      O que acharam? IMO, it should go viral :)
+      </p>
+    "
+
   cartas_amor_rich:
     path: cartas_amor_casamento_part_4.html
     page_title: "Cartas de amor, parte 4 - por Rich"
@@ -74,7 +107,7 @@ posts:
     </div>
 
     <div id=\"presentation-highlights\">
-      <img src=\"/images/cartas_amor/rich6.jpg\">
+      <img src=\"/images/cartas_amor/rich6.png\">
     </div>
     "
 
