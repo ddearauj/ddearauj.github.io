@@ -53,7 +53,7 @@ posts:
       </p>
 
 
-      <iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/playlist/4fWJCL1QfzUdlnl5dTnNEa?si=D4ftaDMzSYKw4HVL_0Whzw&utm_source=whatsapp&pi=kIW-XXjHRECKv\" width=\"100%\" height=\"352\" frameBorder=\"0\" allowfullscreen=\"\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>
+      <iframe data-testid=\"embed-iframe\" style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/playlist/4fWJCL1QfzUdlnl5dTnNEa?utm_source=generator&si=1c0df77ee74b48cb\" width=\"100%\" height=\"352\" frameBorder=\"0\" allowfullscreen=\"\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>
 
       <div id=\"presentation-highlights\">
         <img src=\"/images/zeca_parto/foto_benes_zeca.jpeg\">
