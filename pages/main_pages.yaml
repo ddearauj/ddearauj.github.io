@@ -26,17 +26,6 @@ pages:
 
 posts:
 
-  playlist_parto:
-    path: tomtom_playlist.html
-    page_title: "Tontom nasceu"
-    post_title: "Tontom nasceu"
-    category: "Deve Ser Playlist"
-    date: "06 de Dezembro de 2024"
-    post_text: "
-      <p>
-
-      "
-
   playlist_parto_zeca:
     path: zeca_playlist.html
     page_title: "Zeca nasceu"
